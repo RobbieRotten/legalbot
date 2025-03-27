@@ -1,0 +1,421 @@
+#tag-notes #tag-tutorial
+
+## Week 1
+
+1. Discuss the following questions:
+(a) What is 'equity'? Does the meaning change depending on the context?
+- Equity refers to that body of law that derives from the specific jurisdiction established and exercised by the English High Court of Chancery before 1873.
+- Bridge v Campbell Discount Co Ltd [1962] AC 600, 626.
+- Law engaged in bridging the law and conscious morality
+(b) What is your understanding of why the equitable jurisdiction developed? Can the common law exist without equity? Can equity exist without common law?
+- support and protect the common law from shifts and crafty contrivances against the justice and the law. Equity therefore does not destroy the law, nor create it, but assists it.”
+- No, helix relationship.
+(c) Explain your understanding of equity's concurrent, exclusive and auxiliary jurisdictions. 
+- Concurrent jurisdiction is where equitable and common law remedies are both available, but equity provides a superior or alternative remedy (e.g., specific performance instead of damages); 
+- its exclusive jurisdiction covers rights and remedies that exist only in equity (e.g., trusts, fiduciary duties); 
+- and its auxiliary jurisdiction supports common law claims by providing equitable assistance, such as discovery or injunctions to preserve legal rights.
+ 
+2. Consider the case of Harris v Digital Pulse (2003) 56 NSWLR 298, to clarify the distinction between common law and equitable claims and remedies, and to better understand the debate about the role of Equity in our contemporary legal system.
+Come to the tutorial prepared to discuss these questions:
+- What was the nature of the claim at first instance? What was Palmer J's decision?
+  - Digital Pulse Pty Ltd was a small multi-media services company.
+    - Harris and Eden were employed and held senior responsibilities in the company, so they owed both contractual (common law) and equitable (fiduciary) duties to their employer, not to compete with the employer while employed, or make unauthorized use of the employer's property or client connections.
+    - Nevertheless, Harris and Eden set up a rival company ('Juice'), and tried to divert projects away from Digital Pulse to Juice while still employed
+  - At first instance — Palmer J
+    - Harris and Eden had clearly breached their fiduciary duties to Digital Pulse.
+    - The appropriate equitable remedies for a breach of fiduciary duty are either an account of the profits made by the fiduciaries, or equitable compensation for the loss caused to the employer.
+    - But in this case, these remedies produced a 'relatively low monetary recovery' ([240]), because Harris and Eden had not made much from their wrongdoing, nor caused any clearly proven loss to Digital.
+    - So Palmer J decided to award 'exemplary damages', to make sure that Harris and Eden were punished for their consciously dishonest conduct.
+- On appeal, why did Mason P find that the appeal should be dismissed?
+    - Mason P (in dissent)
+      - The Australian legal system accepts exemplary damages awards in cases of egregious conduct: [113].
+      - Equitable remedies are not only compensatory — see injunctions, specific performance, and account of profits: [120].
+      - The Judicature Act 1873 (UK) did not merge the substantive principles of common law and equity, but that does not 'condemn law and equity to the eternal separation of two parallel lines': [1401. 
+        - Equity (like the common law) had powers to 'adopt and adapt concepts from each other's system well before' that enactment, and nothing in the statute prevents that continued development: [141].
+      - 'Unnecessary barriers of separation' between the two systems (common law and Equity) have been broken down in other jurisdictions with longer experience (US, UK, Canada): [148].
+      - Equity has developed remedies designed for 'deterrence' of certain conduct. 
+        - He challenges the notion that deterrence and punishment are entirely distinct concepts: [164]-[166].
+      - Fiduciary duties are more akin to tortious duties because they are imposed by law rather than by private agreement, so aligning fiduciary principles to contract law is misconceived: [185].
+        - [Compare this to Spigelman CJ's view that, in this particular case, the fiduciary relationships arose only as a consequence of an employment contract.]
+      - Our legal system must be coherent — it is incoherent that a different attitude to remedies should be taken if a case is argued in the tort of deceit, than if the same facts were argued as a contumelious breach of fiduciary duty: 
+        - [1951. 'There is no reason why appropriate assimilation of law and equity should not continue to be achieved through the principles development of Equity so that it comes into line with common law if it thinks fit': [197].
+      - The maxim, 'Equity will not suffer a wrong to be without a remedy' justifies the development of remedies: [205].
+- What do you understand by the concept ‘fusion fallacy’ from these judgments?
+  - The ‘fusion fallacy’?
+    - What did the Judicature legislation achieve?
+      - Merely administrative / procedural simplification?
+      - Or a substantive fusion of the principles of equity and common law – including a mingling of remedies and defences?
+      - And regardless of what the Judicature legislation achieved, can Equity and the Common Law now evolve together as a unified system of principles and remedies?
+3. Equitable Estates and Interests:
+- What did Justice Brennan mean when he said an equitable interest is not 'carved out of a legal estate but impressed upon it':  DKLR Holding Co (No 2) Pty Ltd v Commissioner of Stamp Duties (NSW) (1982) 149 CLR 431, 474 (Brennan J).
+  - Legal and equitable interest form one absolute interest, not two separate ones
+- What are some examples of how equitable interests are created; what was the nature of Mrs Coulson's interest in Commissioner of Stamp Duties (Qld) v Livingston (1964) 112 CLR 12
+  - A testator (T) died in NSW, and his estate held property located in Queensland.
+  - He left 1/3 of his estate to Mrs Coulson (C).+
+  - “What equity did not do was to recognize or create for residuary legatees a beneficial interest in the assets in the executor’s hands during the course of the administration”
+  - BUT: she did have a right to have the estate properly administered. 
+  - This chose in action was itself a property interest, capable of being transferred to C’s heirs.
+  - “the legatee of a share of residue has no interest in any of the property of the testator until the residue has been ascertained. His right is to have the estate properly administered and applied for his benefit when the administration is complete”
+- Equitable interests arise through intention or operation of law (by contract)
+  - By agreement
+  - By express trust
+  - Contract for sale of property
+  - By implication of law
+  - By operation of law
+- Identify any potential legal or equitable interests in the following scenario:
+Vi is the registered owner of Blackacre. This land is actually held by Vi as a trustee for a family trust benefiting her younger sister Emma. In January Vi verbally agrees to sell the land to Alex for $500,000. Alex starts making plans to develop the land and engages a surveyor and builder, as purchases building materials. Vi is aware A has done this.In February Vi, Vi is in need of some cash and takes out a loan from FirstBank for $200,000, using the land as security. The clerk who arranges the mortgage is Vi’s partner and knows that Vi is a trustee. FirstBank registers their mortgage on the property.In March, Vi signs a contract to sell the same land to Beth for $550,000. Beth pays a deposit of $55,000 and immediately registers a caveat on the property.In April, Alex learns about Beth's contract and quickly registers their own caveat.In May, Emma, the beneficiary of the family trust, discovers Vi’s actions and asserts her equitable interest in the property under the trust.
+- Legal Interest
+  - Vi is the registered owner (bare trustee)
+- Equitable Interest
+  - Emma holds an equitable proprietary interest in Blackacre as the beneficiary of the family trust.
+  - Vi is merely a trustee and should not be dealing with the land for her own benefit.
+- Priority given to first registered caveat unperfected equitable interest
+- Is engaging a surveyor and plans consideration? 
+- Clerk is aware of Vi’s position, but not on the facts aware of situation - likely good faith. FirstBank’s Mortgage (February) – Legal Interest with Notice 
+  - Vi used the land as security for a registered mortgage with FirstBank for $200,000. A mortgage is a legal interest, probably first priority 
+  - Bonda fide purchaser for value without notice
+- Beth is not aware on the facts, registers a caveat first, signed a written contract, and has consideration (deposit)
+- As a beneficiary, Emma has an equitable proprietary interest in Blackacre.
+  - Vi, as trustee, should not have mortgaged or sold the property without complying with the trust terms
+
+## Week 2: Undue Influence and Unconscionable Conduct
+
+- Consider and prepare to discuss the following questions in this seminar:
+- 1. Why does equity intervene in what the common law determines to be a valid contract or gift? (what is the difference between a contract and a gift?)
+  - Equity intervenes in valid contracts or gifts where enforcing them would be unconscionable, such as when a party exploits a special disadvantage (Commercial Bank of Australia v Amadio) or induces reliance to the other party’s detriment (Waltons Stores v Maher). A contract involves mutual promises and consideration, whereas a gift is a voluntary transfer of property without consideration, but both may be set aside in equity if obtained through undue influence, unconscionable conduct, or fraud.
+    - Mistake 
+    - Misrepresentation
+    - Duress
+    - Coercion
+    - Undue influence
+    - Unconscionable  conduct
+- 2. Explain the distinctions between actual and presumed undue influence. Who bears the onus of proof in each situation? Pay particular attention to category 2A and 2B undue influence.
+  - Class 1: actual undue influence
+  - Class 2A: Presumed undue influence in recognised relationships of risk;
+  - Class 2B: Presumed undue influence where a relationship of trust and confidence is proven to exist.
+  - ‘The jurisdiction of a court of equity to set aside gifts [and contracts] inter vivos which have been procured by undue influence is exercised where
+    - 1. undue influence def is proved as a fact, or [‘actual undue influence’]
+      - 1. The defendant must have a capacity to influence the plaintiff; 
+      - 2. influence must have been exercised; 
+      - 3. the influence must have been undue; and it must result in the plaintiff's entry into the transaction
+    - 2. where, undue influence being presumed from the relations existing between the parties, the presumption has not been rebutted.’ [‘presumed undue influence’]
+      - Presumed undue influence (Category 2B)
+        - Step 1: Prove that the relationship is one in which one party exerts dominance over the other.
+        - Step 2: Any transaction whereby the weaker party benefits the stronger is now presumed to have been secured by undue influence unless the stronger party proves otherwise.
+          - - requires evidence of relationship of ascendancy/dominion
+          - - does not require evidence of victimisation/ intent
+          - - does not require evidence of a disability or incapacity
+          - - See Johnson v Buttress (1936) 56 CLR 113
+      - Presumed Undue Influence - Rebutting the presumption
+        - The defendant must prove that the transaction was:
+          - “the independent and well-understood act of a man in a position to exercise a free judgment based on information as full as that of the donee”: Johnson v. Buttress (1936) 56 CLR 113 at 134 per Dixon J.
+            - (a) Independent (legal) advice: although not a blanket rule
+            - (b) Proving transaction “not improvident” ie there was adequacy of consideration (gifts may be more closely scrutinized)
+- 3. Can the list of relationships that equity presumes to be at risk of undue influence be justified in modern society? Should there be any such presumptions made at all?
+  - Yes, none of these really changed much:
+    - Parent over child (not child over parent: McFarlane v McFarlane [2021] VSC 197
+    - Solicitor over client
+    - Trustee over beneficiary
+    - Doctor over patient: Bar-Mordecai v Hillston [2004] NSWCA 65
+    - Religious leader over adherent to the faith: McCulloch v Fern [2001] NSWSC 406: Allcard v Skinner (1887) 36 Ch D 145
+    - Guardian over ward
+    - Powers of Attorney Act 1988 (Qld) s 87
+- 4. Why is independent advice regarded as rebutting a presumption of undue influence? If a person receives independent advice, is the effect of any undue influence necessarily removed?
+  - Independent legal advice?
+    - [123] It is not a sufficient response to the conclusion of unconscionable conduct to point to the fact that Ms Thorne received independent legal advice about the two agreements and chose to reject her solicitor's recommendation on each occasion. 
+    - The fact that Ms Thorne was willing to sign both agreements despite being advised that they were "terrible" serves to underscore the extent of the special disadvantage under which Ms Thorne laboured, and to reinforce the conclusion that in these circumstances, which Mr Kennedy had substantially created, it was unconscientious for Mr Kennedy to procure or accept her assent.
+- 5. Why was the loan arrangement in Stubbings v Jams 2 Pty Ltd [2022] HCA 6 unconscionable?
+  - At [38] they cite Kakavas at [20] – it is not enough that the transaction is improvident or risky.
+  - They find S was incapable of understanding the risks involved in the transaction, and AJ Lawyers (and hence its client) had knowledge of that, and exploited that special disadvantage.
+  - Interposing a company to borrow the funds, and requiring the certificates, with ‘bland boilerplate language’, did not negate their actual knowledge of dangerous nature of the transaction for S.
+- 6. What was the 'special disability' of the plaintiff in Louth v Diprose (1992) 175 CLR 621 [1992] HCA 61? What is your view on the outcome?
+  - Louth v Diprose (1992) - a majority set aside a gift of real estate from a solicitor who was besotted with the woman to whom he gave the gift.
+  - How the intention was produced (Bank of NSW v Rogers (1941))
+    - Woman used man’s love and suicide threats to manipulate him
+    - Woman was aware of man’s infatuation and inability to judge his best interest.
+  - Unconscionable conduct def
+    - A relationship exists that places one party at a special disadvantage vis-a-vis the other the party with the advantage has knowledge of the special disadvantage of the other; and
+    - that has been and unconscientious exploitation of the weaker party’s special disadvantage
+- Consider the following scenarios:
+  - 1. Natalie is a 40 year old academic with a PhD in physics.  Until recently, she lived with her mother.  Although highly intelligent, Natalie is shy and very lonely.  She was heavily involved with the ‘One Faith for Australia Party’ (‘One Faith’) - a new political party that seeks to enshrine certain religious principles into the Federal Constitution.  The head of the Party is a self-styled clergyman called ‘Reverend Dan’, who is also about 40.  Although he has little formal education, Reverend Dan is an articulate man with a charismatic personality.
+  - At one of the Party’s first meetings, Reverend Dan raised the issue of funding.  He said that it was the responsibility of every Party member to do all he or she could ‘within the means that God had afforded them’ to help One Faith to ‘do its good work’.  Later, he arranged a private audience with Natalie to discuss how she might serve the Party.  They immediately became very close friends.  She was devoted to Dan and agreed to give up her job and to work, on a voluntary basis, as his assistant.
+  - Natalie had been working for Dan for three months, when he called her into his office and tearfully exclaimed, ‘Natalie, it’s all over! … Unless the Good Lord sends me a miracle’. He went on to say that the Party needed funds urgently.  Natalie immediately offered to donate all her worldly goods - an investment property (worth $800 000) and savings of $50 000 - to One Faith.  Dan thanked her profusely, but advised her to take some time to think it over and get some advice.  Natalie protested that she was a grown woman and she knew her own mind.  The next day, Natalie handed over to the Party’s treasurer, Fred, an executed transfer of the investment property and a cheque for $50 000 – each made out to One Faith for Australia Pty Ltd.  When Natalie said she hoped her donation would help the Party in its time of crisis, Fred stared blankly at her and said ‘Crisis?  What crisis?’ 
+  - Six months later, Natalie’s mother died, leaving all of her property to her brother.  Natalie now has no place to live and no savings.  Dan has become rather aloof. 
+  - Natalie seeks your advice.  She now says that she ‘doesn’t know what she was thinking’ when she gave her property away and wants to know whether she can get any of it back.  The value of her investment property has increased significantly recently.  It would now be worth $1 000 000. 
+- Advise Natalie as to whether the doctrine of undue influence and/or unconscionable transaction may assist her.  Explain which equitable remedies she might seek and whether you consider that she would be likely to be successful in attaining them. 
+- If you need any further information, say what it is that you need to know and why.
+  - Category 2B: PUI
+    - Step 1:  Dan was a clergyman, head of political party, and charismatic boss.
+    - Step 2: Unsocialized shy PhD academic quitting her job due to ideological devotion. He did advise her to seek advise, but also fabricated the claim and made the claim seem urgent and devastating. 
+  - Presumed Undue Influence - Rebutting the presumption
+    - The defendant must prove that the transaction was:
+      - “the independent and well-understood act of a man in a position to exercise a free judgment based on information as full as that of the donee”: Johnson v. Buttress (1936) 56 CLR 113 at 134 per Dixon J.
+        - (a) Independent (legal) advice: although not a blanket rule
+        - (b) Proving transaction “not improvident” ie there was adequacy of consideration (gifts may be more closely scrutinized)
+          - Did she receive a benefit from transitioning her investment property (the money isn’t really debatable)
+  - Progresses to actual undue influence (category 1)
+    - Must be such an actual influence over the midn of the disponor that it cannot be considered to be the free act of the disponer (Johnson v Buttress, Thorne v Kennedy)
+    - Dixon J in Johnson v Buttress (1936) 56 CLR 113 at 134:
+      - (a) Dan has the capacity to influence Natalie immensely;
+      - (b) the influence was exercised in a private conference;
+      - (c) its exercise was undue as a false emergency; and
+      - (d) its exercise brought about Natalie’s transferrence.
+    - Kakavas v Crown Melbourne, Stubbings v Jamms 2
+  - Unconscionable Conduct
+    - Commercial Bank of Australia Ltd v Amadio (1983) 151 CLR 447
+      - (1) Natalie was affected by a special disadvantage in emotional ability; 
+      - (2) Dan was aware of this, or should have been aware, of this disadvantage; and 
+      - (3) Dan took advantage of Natalie’s disadvantage in circumstances where the transaction was not fair, just and reasonable.
+- 2. In June 2021 Marco visited his mother at her Earlwood home and asked her to guarantee a bank loan that he wanted to take out for his video business. Marco was always telling his parents “how well the business was doing”, and they were very proud of him. Marco assured his mother that that the guarantee “would only be for six months and that his business debts would not exceed $40,000”. Anna wanted to help her son and accepted his request. The following week, Marco brought home the bank’s loan manager and a bank guarantee form for Anna to sign.
+  - Anna does not speak or read English well; therefore, she relied upon Marco to briefly explain the relevant guarantee forms to her. The bank manager introduced himself to Anna, did not engage in any other discussion with Anna at the time. Anna proceeded to sign the documents in front of the bank’s loans manager, believing the loan was a “short term loan limited to $40,000”. In fact, the bank guarantee was unlimited and secured “all debts” of Marco’s business against the Earlwood family property.
+  - By January 2022, Marco had not made several of the required repayments under the loan. Therefore, the lender bank is now moving to sell the Earlwood house in order to pay Marco’s accumulated debts of $750,000.
+- Advise Anna
+  - Allcard v Skinner 
+  - Unconscionable conduct elements
+    - The weaker party is under a special disadvantage that seriously affects their ability to make a judgment about their own best interests.
+    - The stronger party knows, or ought to know, of this special disadvantage.
+    - The stronger party takes unfair advantage of the weaker party’s condition in a way that makes the transaction not fair, just, or reasonable.
+  - (1) Anna’s Special Disadvantage
+    - Language Barrier – Anna does not speak or read English well, meaning she could not understand the full terms of the guarantee.
+    - Trust and Reliance on Marco – Marco misled her by stating that the guarantee was limited to $40,000 for six months, when it was actually unlimited and secured all debts.
+    - Lack of Business and Legal Knowledge – Anna is not commercially experienced and did not obtain independent legal or financial advice.
+    - A key factor in Amadio was that the parents did not receive independent legal advice, and the bank failed to insist on it.
+    - Here, the bank manager did not explain the guarantee and did not advise Anna to seek independent legal advice.
+    - The failure to recommend legal advice strengthens Anna’s claim, as it demonstrates the bank’s indifference to her vulnerability.
+  - 🔹 (2) Knowledge by the Stronger Party
+    - Marco Knew → Marco knew his statements were misleading and that Anna relied on him entirely for information about the guarantee.
+    - The Bank Knew or Ought to Have Known →
+      - The bank loan manager did not explain the guarantee to Anna.
+      - The bank knew or should have known she relied entirely on Marco for explanations.
+      - A reasonable banker would have been alerted to potential unfairness, given Anna’s age, language difficulties, and lack of engagement with the bank officer.
+  - 🔹 (3) Unfair Taking of Advantage
+    - The bank failed to ensure Anna understood the transaction.
+    - The guarantee was extremely unfair—Anna believed she was liable for $40,000, but was actually liable for Marco’s unlimited business debts.
+    - The transaction is harsh and oppressive—Anna is losing her home due to debts of $750,000, far beyond what she ever agreed to guarantee.
+## Week 3: Estoppel
+
+Estoppel Questions for Discussion
+- What is the underlying purpose of all estoppels by conduct?
+  - The object of estoppel in pais is to prevent an unjust departure by one person from an assumption adopted by another as the basis of some act or omission which, unless the assumption be adhered to, would operate to that other's detriment. Whether a departure by a party from the assumption should be considered unjust and inadmissible depends on the part taken by him in occasioning its adoption by the other party..... But, in each case, he is not bound to adhere to the assumption unless, as a result of adopting it as the basis of action or inaction, the other party will have placed himself in a position of material disadvantage if departure from the assumption be permitted.’
+- What was the effect of the House of Lords decision in Jorden v Money?
+  - Estoppels by Conduct following Jorden v Money
+    - At Common law: not a cause of action
+      - estoppel by representation - remains evidentiary, restricted to fact.
+      - Alters of establishes the basis on which other causes of action may be brought or defended.
+    - In Equity: can be a cause of action
+      - Equity had long allowed estoppel to be used as a cause of action in relation to non-contractual promises (representations of future intention) in relation to land (proprietary estoppel).
+      - Over time, non-contractual promises that did not relate to land came to be accepted under English law, though only as a defence (shield) not a cause of action (sword) (promissory estoppel).
+      - Under Australian law, in the case of Waltons Stores (Interstate) Ltd v Maher, (1988) 164 CLR 387, the High Court of Australia accepted that in equity, a non-contractual promise that did not relate to granting an interest in land could found a cause of action. This form of promissory estoppel, has been accepted in Australia but not in the United Kingdom.
+- What is the difference between the forms of proprietary estoppel? How do the elements differ?
+    - Proprietary estoppel
+      - The term ‘proprietary estoppel’ appears to have first been used by a court in the decision E R Ives Investment Ltd v High [1967] 2 QB 379. The description was found in the text, Snell’s The Principles of Equity, (Sweet & Maxwell Ltd, 26th ed, 1966).
+      - Relates specifically to assumptions induced by the defendant of the grant of an interest in land.
+    - Two ways in which the assumption can be induced
+      - By active encouragement
+        - Proprietary estoppel by encouragement
+          - Equitable form of estoppel by conduct
+          - Dillwyn v Llewelyn
+        - Promise-based
+      - By passive acquiescence
+        - Proprietary estoppel by acquiescence
+          - Another equitable form of estoppel by conduct in relation to interests in land.
+          - Not promise-based; rather arises where:
+            - a person improves land in the mistaken assumption that it is their own;
+            - The true owner is aware of the mistake;
+            - Does nothing to disabuse the person of their Mistake.
+          - Ramsden v Dyson
+- How did the HC decision in Waltons Stores v Maher (1988) change the law of estoppel in Australia?  
+    - Not a promise of a grant of an interest in land (like proprietary estoppel)
+    - No pre-existing legal relationship (like High Trees) used as a cause of action, not merely defence,
+    - Gave rise to new legal rights.
+      - Expanded promissory estoppel to create new legal rights (i.e., can be used as a sword, not just a shield).
+- How can you reconcile the doctrine of estoppel with the requirement of consideration for an enforceable contract?
+    - Estoppel and consideration are reconciled by recognising that while consideration is required to create contractual obligations, estoppel prevents a party from unconscionably denying an expectation they have induced, thereby enforcing reliance-based obligations rather than bargained-for exchanges.
+- What is the difference between proprietary and promissory estoppel?
+    - Proprietary estoppel is about promises in relation to making changes or granting property, it is a positive right.
+    - Promissory estoppel prevents a party from going back on a promise not to enforce existing legal rights, typically in a contractual or commercial context. Traditionally, it was a negative right (a shield, not a sword), but in Waltons Stores v Maher (1988), the High Court of Australia expanded its scope to create new legal rights in some circumstances.
+- How does the law of promissory estoppel differ between English law and Australian law?
+    - The key difference is that English law strictly limits promissory estoppel to being a defence ("a shield"), preventing enforcement of strict legal rights but not creating new ones (High Trees), whereas Australian law initially expanded it to allow a cause of action ("a sword") in Waltons Stores v Maher (1988). However, in NSW, Saleh v Romanous (2010) has since limited promissory estoppel to being a defence only, bringing it closer to the English position, though other Australian jurisdictions may still allow it as a cause of action in certain circumstances.
+- What difference did Saleh v Romanous make to the scope of promissory estoppel in New South Wales? Do you think that it is consistent with the findings of the High Court in Waltons Stores?
+    - Saleh v Romanous (2010) limited promissory estoppel in NSW to a defensive role ("a shield"), rejecting its use as a cause of action ("a sword"), which appears inconsistent with Waltons Stores v Maher (1988), where the High Court recognised promissory estoppel as capable of generating new rights in equity.
+- What is the appropriate remedy in a successful claim in estoppel? 
+    - Prima facie expectation enforcement (Plimmer v Wellington (1884)).
+    - Proportionality considered – Court can order lesser relief if enforcing expectation is inequitably harsh (Giumelli v Giumelli (1999)).
+    - Constructive trusts may be imposed but avoided if it affects third parties (Sidhu v Van Dyke (2014)).
+    - Promissory estoppel
+      - Prevent unfair enforcement
+      - Prima facie enforcement of the expectation.
+      - There is no rule of ‘proportionality’ - but where that relief would be ‘inequitably harsh’ some lesser form of relief may be granted.
+    - Proprietary Estoppel
+      - Grant property interest/compensation
+- What was the effect of the High Court's ruling in Stone v Kramer?
+  - Clarifies and reinforces the doctrine of proprietary estoppel by encouragement in Australia.
+  - Confirms that a promisor's silence or inaction is not necessary for an estoppel claim to succeed.
+  - Aligns with prior cases such as Giumelli v Giumelli (1999) and Sidhu v Van Dyke (2014) in shaping equitable estoppel principles in Australian law.
+  - Elements of Equitable Estoppel: Kramer v Stone (2023) 112 NSWLR 564, 582
+    - The Court referred to Waltons Stores (Interstate) Ltd v Maher (1988) 164 CLR 387, in which Brennan J, established the following elements common to each equitable estoppel doctrine (including proprietary estoppel):
+      - The plaintiff assumed that a particular legal relationship existed, or would exist, between the parties, and that the defendant would not be free to withdraw from this expected legal relationship.
+      - The defendant has induced the plaintiff to adopt that assumption or expectation.
+      - The plaintiff acts or abstains from acting in reliance on the assumption or expectation.
+      - The defendant knew or intended him to do so.
+      - The plaintiff’s action or inaction will occasion detriment if the assumption or expectation is not fulfilled.
+      - The defendant has failed to act to avoid that detriment whether by fulfilling the assumption or expectation or otherwise.
+Estoppel Problem for discussion:
+1.Consider the problem of Natalie and Reverend Dan from last week.  Assume that Natalie expresses concern to Reverend Dan about the impact her donations will have on her financial position, and he replies promising her a monthly 'blessing' of $3000 if she is ever in 'financial need'. Specific promise
+Later, when Natalie requested to receive this monthly payment, Reverend Dan refused to provide it.
+Could Natalie successfully argue that Reverend Dan should be legally prevented from going back on his promise, based on the principle of estoppel?
+- Yes, 
+  - Equitable estoppel
+  - Clear representation, expectation of reception of aid
+  - Natalie requested her monthly blessing
+  - The reliance was for financial need and not reversing a donation, so clear detriment
+  - It was her money, he is a political leader and a clergyman
+  - Expectation of enforcement for promissory estoppel
+2. Giuseppe Pirelli has worked on his Central Coast farm property, growing organic crops of fruit and vegetables, for over 30 years. Planning ahead for his retirement, he wishes the farm to stay in the family. intention Therefore, last year Giuseppe asked his son Dino to stay on the family farm and to keep working the crops, instead of moving on to other jobs or activities. detriment In return for staying on the farm and continuing the farming activities, Giuseppe promised to leave one of the paddocks to Dino. Dino agreed and last month he completed the construction of a modest house on his chosen paddock.
+Giuseppe and his wife Anna also jointly own property, which is situated in a corner block near a popular northern beach, and which has been leased as a coffee  shop (Café Roma) over the last decade. However  in the past year the shop has not been running as profitably as previously. Therefore, the business owner of Café Roma approached Giuseppe in December 2023, and requested “a 30% reduction in rent, for a while, till things improve and return to the good old days specific promise with general ending time.” At that time, Giuseppe felt sorry for the tenant and “agreed to reduce rent for twelve months specific wording (assuming 30%)”.
+Two months later, however, Anna’s concerns about (and disagreement with) Giuseppe’s oral arrangement for the rental reduction have made Giuseppe change his mind. At the end of February 2024, Giuseppe demanded that Café Roma pay the full rent, or move out so that a new tenant who could afford the rent could move in.
+- Advise Dino regarding his possible rights in the farming.
+  - Assumption – Dino believed a legal relationship existed with his father.
+  - Inducement – Giuseppe encouraged the assumption through continuous work.
+  - Reliance – dino acted based on that assumption and constructed his house.
+  - Knowledge/Intention – Giuseppe knew Dino would rely on this, evidenced by construction.
+  - Detriment – Dino suffers a construction and job opportunity loss if assumption is not upheld.
+  - Unconscionability – Giuseppe failed to avoid the detriment if he renegs.
+- Advise Giuseppe and Anna regarding the lease of their shop and the rental.
+  - Assumption – Cafe Roma Owner believed a legal relationship existed between lessor and lesee.
+  - Inducement – Giuseppe encouraged the assumption verbally reducing an unknown percent for 12 months.
+  - Reliance – Cafe Roma Owner acted based on that assumption by continuing to operate.
+  - Knowledge/Intention – Giuseppe knew plaintiff would rely on this rent reduction, because he continued over several months to pay it.
+  - Detriment – Cafe Roma Owner suffered financial loss if assumption is not upheld, potentially losing his business.
+  - Unconscionability – Giuseppe failed to avoid the detriment by agreeing in the first place and not advising within a reasonable timeframe of change.
+## Week 4: Fiduciary Obligations
+
+- Fiduciary obligations questions for discussion:
+- 1. What factors determine whether a fiduciary duty might exist? What does it mean when we say the conduct complained of must be within the 'scope' of the fiduciary duty?
+  - A. Relationships That Automatically Give Rise to Fiduciary Duties ("Established Categories")
+  - B. Commercial Relationships – Case-by-Case Basis
+    - Hospital Products Ltd v United States Surgical Corporation (1984) 156 CLR 41 – Fiduciary duties are not presumed in commercial settings; courts assess the nature of the relationship.
+    - Factors Indicating a Fiduciary Relationship:
+      - Undertaking to act in another’s interests (Hospital Products).
+      - Power to unilaterally affect another’s rights (United Dominions Corp Ltd v Brian Pty Ltd (1985) 157 CLR 1).
+      - Vulnerability and reliance (Grimaldi v Chameleon Mining NL (No 2) [2012] FCAFC 6)
+- 2. Are fiduciary duties proscriptive or prescriptive (and what does this mean)? What is/not protected by a fiduciary duty?
+  - Proscriptive (Negative) Duties
+    - No Conflicts Rule
+      - A fiduciary must not place themselves in a position of conflict between:
+          - Duty & personal interest (Aberdeen Railway Co v Blaikie Bros (1854) 1 Macq 461).
+          - Two competing duties (Farrington v Rowe McBride & Partners [1985] 1 NZLR 83).
+      - No Profits Rule
+        - A fiduciary must not make unauthorised profits from their position (Boardman v Phipps [1967] 2 AC 46).
+    - No Prescriptive (Positive) Duties
+      - Fiduciaries are not required to act in the best interests of the principal (Breen v Williams (1996) 186 CLR 71).
+      - Duties to act arise from contract, tort, or statute, not fiduciary principles (Pilmer v Duke Group Ltd (in liq) (2001) 207 CLR 165).
+- 3. There is obviously significant overlap between the doctrines of presumed undue influence and fiduciary obligations. Is the doctrine of undue influence really just an example of fiduciary law?
+  - Fiduciary obligations do not impose a general duty to act in the principal’s best interests but rather prevent the fiduciary from preferring their own interests over those of the principal. Presumed undue influence is remedial rather than proscriptive—it seeks to restore fairness by setting aside unfair transactions, focusing on the quality of the acceptance, rather than imposing ongoing duties like fiduciary law.
+- 4. What were the circumstances in Hospital Products Ltd v United States Surgical Corporation (1984) and Breen v Williams (1996). What definitions of fiduciary relationship did the High Court employ? Was a fiduciary duty found? Why/why not? Compare the reasoning in Boardman v Phipps [1967]
+  - Hospital Products Ltd v USSC (1984) 156 CLR 41
+    - Circumstances:
+      - USSC, a US manufacturer of surgical stapling products, appointed Blackman and his company, Hospital Products Ltd (HPL), as its Australian distributor.
+      - Blackman secretly manufactured and sold competing products, misleading customers into believing they were USSC products.
+      - USSC sued, alleging a breach of fiduciary duty and seeking an account of profits.
+    - Commercial contracts do not automatically impose fiduciary duties.
+    - Was a Fiduciary Duty Found?
+      - ❌ No. The High Court ruled that HPL did not owe fiduciary duties to USSC.
+        - The relationship was purely commercial—there was no undertaking by Blackman to act exclusively for USSC’s benefit.
+        - USSC was a sophisticated commercial entity that could protect itself contractually.
+        - The case confirmed that commercial contracts do not automatically impose fiduciary duties unless a special relationship of trust and confidence is present.
+  - Breen v Williams (1996) 186 CLR 71
+    - Circumstances:
+      - Ms Breen underwent breast implant surgery and later suffered complications.
+      - She requested access to her medical records, but Dr Williams refused unless she signed a liability waiver.
+      - She argued that the doctor-patient relationship imposed fiduciary duties, requiring Williams to provide access to the records.
+    - Fiduciary obligations are proscriptive, not prescriptive (Gaudron & McHugh JJ).
+      - Fiduciaries must not place themselves in a position of conflict.
+      - Fiduciaries must not make unauthorised profits from their position.
+      - However, fiduciaries do not have a positive duty to act in another’s best interests.
+    - Was a Fiduciary Duty Found?
+      - ❌ No. The High Court ruled that Dr Williams did not owe a fiduciary duty to provide access to records.
+        - The doctor-patient relationship involves trust and confidence, but does not give rise to fiduciary obligations in all respects.
+        - Unlike trustees or company directors, doctors are not required to put patients’ interests before their own in every aspect.
+        - Fiduciary law does not impose positive duties—contract or negligence law is more appropriate for regulating doctors' obligations.
+  - Boardman v Phipps [1967] 2 AC 46
+    - Circumstances:
+      - Boardman was a solicitor for a trust that held shares in a company.
+      - He realised the company was poorly managed and, using information obtained in his fiduciary capacity, personally acquired a controlling stake.
+      - The trust and its beneficiaries also benefited from the transaction.
+      - A beneficiary sued Boardman, arguing he had improperly profited from his position.
+    - Definition of Fiduciary Duty (Majority):
+      - A fiduciary must not profit from their position without full, informed consent.
+      - The fiduciary’s good faith is irrelevant—the duty is strict.
+    - Was a Fiduciary Duty Found?
+      - ✅ Yes. Even though Boardman acted in good faith and the trust benefited, he used confidential trust information for personal gain.
+        - The no-profit rule required him to account for the profits, though he was allowed compensation for his efforts.
+- 5. In Anderson v Canaccord Genuity Financial Ltd [2023] NSWCA 294 the NSW Court of Appeal held that the relationship between an employee and their employer is an established fiduciary relationship, overturning the earlier decision of Justice Ward.  Does it make sense that all employees should be fiduciaries in respect of their employers? Will an employee be in breach of a fiduciary duty if they ask for a pay rise? Or go on strike?
+  - The extent to which an employee owes fiduciary obligations to the employer in addition to contractual obligations is a question of degree, and depends on the scope of the obligation. Unless the employee is very senior or has a large degree of authority, there is unlikely to be conduct that falls within the scope of the obligation
+- 6. What remedies are available for breach of a fiduciary duty?  
+  - Account of profits.
+    - Note that courts will sometimes make allowances for skill, effort or financial contributions of the fiduciary or others.
+      - Examples: Warman International Ltd v Dwyer; Boardman v Phipps.
+  - Compensation for loss. 
+    - Example: Nocton v Lord Ashburton [1914] AC 932.
+  - Proprietary remedies: 
+    - constructive trusts, equitable charges, tracing.
+  - Rescission of contracts: 
+    - Example: Maguire v Makaronis (1997) 188 CLR 449.
+- Fiduciary obligations problem for discussion:
+- 1. From 2015 till late 2023, Maria Pirelli worked in partnership with her cousin Rosa Martini. They are accountants. Until recently they operated the accounting partnership out of leased premises in Haberfield. Rosa married in November 2023 and has talked about being unsure whether to continue with the business after marriage. She left in November 2023 for a long honeymoon in Europe. The business lease was due to be renewed  in March 2024.
+- In December 2023, while Rosa was still away, Maria began seeing clients at her home in Leichhardt, and realised that she could run the practice without leasing offices. So she assigned the right to renew the lease to another accountant, for a sum of $50,000, and banked this sum in her personal bank account. Maria also told all of Rosa’s clients that Rosa was leaving the business and so they should make appointments to see Maria instead, at her Leichhardt home office. Soon many of Rosa’s best clients were visiting the Leichhardt office for their accounting needs. Maria set up a separate bank account, in her own name only, to bank the proceeds of her accounting work.
+- Rosa returned from her honeymoon on 1 March enthusiastic to resume her professional career, only to find that the office premises were now leased to a rival accounting firm, and most of her clients were now consulting Maria alone.  Advise Rosa.
+  - Step 1: Identify the Fiduciary Relationship
+    - 1.1 Is the relationship in an established fiduciary category?
+      - Partnership (Chan v Zacharia)
+      - Established that fiduciary duties continue until all partnership affairs are fully resolved.
+  - Step 2: Scope of Fiduciary Duty
+    - 2.1 Does the alleged conduct fall within the fiduciary’s role?
+      - A fiduciary must not place themselves in a position of conflict between:
+          - Duty & personal interest (Aberdeen Railway Co v Blaikie Bros (1854) 1 Macq 461).
+    - 2.2 If not, fiduciary duties do not apply (Clark Boyce v Mouat).
+  - Step 3: Breach of Fiduciary Duty
+    - 3.1 the fiduciary had a conflict of interest
+      - Self-dealing (Aberdeen Railway)
+    - 3.2 Did the fiduciary profit from their position?
+      - the gain was obtained using fiduciary knowledge or opportunity (Boardman v Phipps)
+    - informed consent was not explcitly given? (Queensland Mines v Hudson)
+  - Step 4: Defences
+    - 4.1 The principal was not fully informed and did not gave consent
+    - 4.2 Was there a contractual exclusion of fiduciary duties?
+      - Unknown on the facts
+  - Step 5: Remedies
+    - 5.1 Account of profits (Boardman v Phipps)
+    - 5.2 Equitable compensation (Nocton v Lord Ashburton)
+    - 5.3 Constructive trust (Grimaldi v Chameleon Mining)
+    - 5.4 Rescission of contract (Maguire v Makaronis)
+- 2. Consider the problem of Natalie and Reverend Dan from week 2 & 3. Assume that Natalie contacted her investment advisor, Bruce, and asked him if he could liquidate her shareholdings quickly to enable her to donate cash to One Faith. Bruce told Natalie he would sell the shares on the open market. Later that afternoon, Bruce transferred $50,000 to Natalie, saying that this was the price he had obtained for her share portfolio. Natalie transferred the $50,000 directly to One Faith.
+- Natalie has since discovered that Bruce actually purchased her parcel of shares himself and has since sold them for $100,000 on the open market.
+- Advise Bruce whether his actions attract any liability.
+  - Step 1: Identify the Fiduciary Relationship
+    - 1.1 The relationship in an established fiduciary category
+      - Arguable investment agent as he has been advised to make an action on her behalf (Daly v Sydney Stock Exchange (1986) 160 CLR 371).
+    - 1.2 If not, apply Hospital Products factors to determine if a fiduciary duty arises.
+  - Step 2: Scope of Fiduciary Duty
+    - 2.1 Does the alleged conduct fall within the fiduciary’s role?
+      - Directly within his role as an investment advisor, particularly once entrusted to liquidation
+    - 2.2 If not, fiduciary duties do not apply (Clark Boyce v Mouat).
+  - Step 3: Breach of Fiduciary Duty
+    - 3.1 Did the fiduciary have a conflict of interest?
+      - Self-dealing (Aberdeen Railway)
+        - Yes, sold to himself then resold for a profit
+    - 3.2 Did the fiduciary profit from their position?
+      - The gain was obtained using fiduciary knowledge or opportunity (Boardman v Phipps)
+    - informed consent to his specific action was not given (Queensland Mines v Hudson)
+      - The consent was to the open market
+  - Step 4: Defences
+    - 4.1 The principal was not fully informed and did not gave consent
+      - The consent was to an open market sell, not to the advisor, so not fully informed
+    - 4.2 Was there a contractual exclusion of fiduciary duties?
+      - None listed
+  - Step 5: Remedies
+    - 5.1 Account of profits (Boardman v Phipps)
+    - 5.2 Equitable compensation (Nocton v Lord Ashburton)
+    - 5.3 Constructive trust (Grimaldi v Chameleon Mining)
+    - 5.4 Rescission of contract (Maguire v Makaronis)

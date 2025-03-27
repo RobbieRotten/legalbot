@@ -1,0 +1,1576 @@
+#tag-notes #tag-tutorial
+
+## Cheat Sheet
+
+- Link
+- Week 2
+  - The Executive Branch
+    - Who? Governor-General, PM, Ministers, Cabinet, Departments, Tribunals, Public Servants.
+    - What? Administers laws, policies, and public services at Federal, State, and Local levels.
+    - Where? Departments, statutory bodies, councils, agencies (e.g., ATO, Centrelink, ICAC).
+  - Sources of Executive Power
+    - Source	Example
+    - Statutory Power - Legislation (e.g., PGPA Act 2013 (Cth))
+    - Prerogative Power - Treaties, pardons, passports
+    - Nationhood Power - Crisis response, national security
+    - Common Law Power - Contracting, suing
+      - Federal: Constitution s 61 + Statutes
+      - State: State laws + Prerogative
+      - Local: Powers delegated by State
+      - 
+  - Executive Review Mechanisms
+    - Merits Review – AAT → ART (soon) (Fed) | NCAT (NSW)
+    - Investigations – Ombudsman, ICAC, NACC, Auditor-General
+    - FOI – Freedom of Information Act 1982 (Cth) | GIPA Act 2009 (NSW)
+    - Judicial Review –
+      - High Court (s 75(v) Constitution)
+      - Federal Court (ADJR Act 1977 (Cth))
+      - NSW Supreme Court (s 69 Supreme Court Act 1970 (NSW))
+  - Key Public Law Values	
+    - Legality – Must act within the law.
+    - Fairness & Consistency – Impartial & equal decisions.
+    - Rationality – Based on logic & evidence.
+    - Integrity & Honesty – Ethical decision-making.
+    - Accountability – Justification of actions.
+    - Accessibility & Participation – Public input & transparency.
+    - Efficiency & Effectiveness – Government must function well.
+  - Administrative Law: What Are We Challenging?
+    - Who is the decision-maker?
+    - What act or instrument are we targeting?
+  - Decision Chain Example:
+    - Parliament → Passes a law giving executive power
+    - Minister (Executive) → Uses the law to make a decision
+    - Tribunal or Court → Reviews the decision
+  - Kerr Report (1971) – Why It Matters
+    - Problem: No structured administrative law system, judicial review was inaccessible.
+    - Solution:
+      - AAT – Independent merits review (AAT Act 1975)
+      - Ombudsman – Investigates government decisions (Ombudsman Act 1976)
+      - Judicial Review Reform – ADJR Act 1977 (simplified process)
+      - FOI Laws – FOI Act 1982 (access to government info)
+    - 💡 Impact: Modern administrative law = Transparency + Accountability + Fairness
+  - Case: Craig v DFAT [2023] AATA 2785
+    - Issue: FOI request denied under s 33(a)(iii) (harm to international relations).
+    - Held: Tribunal upheld DFAT refusal – confidentiality in diplomatic communications outweighs leaks.
+    - Key Takeaways:
+      - Leaks (WikiLeaks) ≠ Official disclosure – Diplomatic trust matters.
+      - FOI Act s 33(a)(iii) applies strictly – Public interest is irrelevant. 
+      - Tribunal can't override exemptions – Limited power in FOI cases.
+  - TL;DR Summary
+    - Executive power comes from statute, prerogative, and common law.
+    - Executive review = Merits review (AAT), Ombudsman, FOI, Judicial Review.
+    - Public law values = Legality, fairness, accountability, efficiency, integrity.
+    - Kerr Report (1971) → AAT, Ombudsman, FOI, ADJR Act = modern admin law.
+    - Craig v DFAT (2023) → FOI exemptions for diplomatic documents apply strictly.
+  - Big Picture: Administrative law = Holding the executive accountable & ensuring fairness.
+- Week 3
+  - Ombusdman Problem Question - Ombudsman Act 1976 Cth
+  - Jurisdiction
+    - (a) What may be investigated?
+      - ... action that relates to a matter of administration’ (administrative (executive) actions, s 5(1)(a))
+      - s 7(1) 
+        - Subject to subsection (2), a complaint under this Act may be made to the Ombudsman orally or in writing.
+      - Narrow reading:
+        - Legislative action✖
+        - Judicial action✖
+        - High policy decisions✖
+      - ... but is this unduly restrictive?
+    - (b) Who may be investigated?
+      - Captured 
+        - Commonwealth Departments 
+          - s 5(1)
+        - Prescribed authorities (ie body established by legislation for a public purpose) 
+          - ss 3, 5(1)
+        - Private contractors: the contracting Department/authority is taken to have performed the action taken by the contractor
+          - s 3BA apply to -> s 3(4B)
+      - Exclusions
+        - Ministers 
+          - s 5(2)(a)
+        - Proceedings in Parliament 
+          - s 5(2)(aa)
+        - Judges 
+          - s 5(2)(b)
+        - Appointment and employment decisions (eg appointment to public office, APS promotion/discipline)
+          - s 5(2)(d)-(g)
+        - Note power to transfer relevant complaints to other appropriate bodies (eg ACMA, Information Commissioner, Parliamentary Service Commissioner etc): see s 6
+    - (c) Discretion not to act
+      - (i) Conduct of the applicant
+        - 12 month delay in raising complaint
+        - frivolous, vexatious, or not made in good faith
+        - complainant does not have a sufficient interest
+          - s 6(1)
+      - (ii) Subject matter of the decision
+        - relates to a commercial activity of a Department or prescribed authority
+          - s 6(12)
+      - (iii) Availability of other mechanisms
+        - internal review/ complaints
+        - tribunal review, legal proceedings
+          - s 6(1A), (3), (4)
+      - (iv) General catch-all
+        - “An investigation, or further investigation, of the action is not warranted having regard to all the circumstances”
+          - s 6(1) (b)(3)
+  - Royal Commissions
+    - Royal Commissions - investigative public body
+      - Royal Commission
+      - Commission of Inquiry
+      - Boards of Inquiry
+      - Special Inquiry
+      - (Executive equivalent to a parliamentary select committee)
+    - Standing commissions
+      - Integrity Commission
+      - Anti-corruption Commission
+      - (Executive equivalent to a parliamentary standing committee)
+    - Establishment
+      - Convention – exercise of prerogative power through letters patent
+        - Prerogative cannot confer coercive powers
+        - Coercive powers conferred by:
+          - Royal Commissions Act 1902 (Cth)
+          - Royal Commissions Act 1923 (NSW)
+    - Jurisdiction
+      - Scope defined by letters patent
+      - Usually:
+        - investigate a particular set of matters
+        - prepare a report
+        - make recommendations
+    - Powers
+      - Coercive powers conferred by legislation (not letters patent)
+        - Royal Commissions Act 1902 (Cth):
+          - apply for search warrants
+          - summon and cross-examine witnesses
+          - require production of documents
+          - hold hearings
+    - Government accountability?
+      - Motivation
+        - Quell public outcry?
+        - Target actions of a previous government?
+      - Examples:
+        - 1987-91 Royal Commission into Aboriginal Deaths in Custody
+        - 2014 Royal Commission into the Home Insulation Program
+        - 2016 Royal Commission and Board of Inquiry into the Protection and Detention of Children in the Northern Territory
+        - 2020 Victorian COVID-19 Hotel Quarantine Inquiry
+        - 2022-23 Royal Commission into the Robodebt Scheme
+      - Outcomes:
+        - Recommendations not legally enforceable
+        - Action is often too weak or too slow
+        - Pressure and transparency
+      - “The Government has agreed, or agreed in principle, to all 56 of the Royal Commission’s recommendations as part of the ongoing work to restore faith, integrity and trust in government.”
+- Week 4:
+  - Overview: Access to Government Information
+    - Access to government information is regulated by freedom of information (FOI) regimes, archives legislation, and privacy laws. These laws aim to:
+      - Promote transparency, accountability, and public participation.
+      - Balance access rights with national security, confidentiality, and privacy concerns.
+    - Accessing Information: Freedom of Information (FOI) Regimes
+  - Commonwealth FOI Law
+    - Freedom of Information Act 1982 (Cth)
+      - Right to access: Legally enforceable right to obtain documents of agencies and Ministers.
+      - Exemptions: Certain documents can be withheld under specific grounds (e.g. national security, Cabinet-in-confidence).
+      - Appeals: Decisions to withhold information can be challenged.
+    - Freedom of Information (Charges) Regulations 2019 (Cth)
+      - Allows agencies to impose fees for processing FOI requests.
+      - Exemptions for personal information and where requests are unreasonably delayed.
+    - FOI Guidelines (s 93A FOI Act)
+      - Issued by the Information Commissioner to guide FOI decision-making.
+      - Not legally binding but must be considered by agencies.
+    - Australian Information Commissioner Act 2010 (Cth)
+      - Establishes the Australian Information Commissioner to oversee FOI compliance.
+  - 2.2. NSW FOI Law
+    - Government Information (Public Access) Act 2009 (NSW) (GIPA Act)
+      - Governs public access to information held by NSW government agencies.
+      - Focuses on proactive release, informal access, formal access, and mandatory disclosure.
+    - Key Differences: FOI Act (Cth) vs GIPA Act (NSW)
+Feature
+FOI Act (Cth)	
+GIPA Act (NSW)
+Scope
+Commonwealth agencies & Ministers	
+NSW agencies & Ministers
+Exemptions
+Specific exemptions under Pt IV FOI Act	
+Public interest test under s 12 GIPA Act
+Review Rights	
+Internal review, Information Commissioner, AAT, Courts	
+Internal review, NCAT, Courts
+
+  - 3. Preserving Information: Archives Legislation
+    - Archives Act 1983 (Cth)
+      - Regulates the preservation and disposal of Commonwealth records.
+      - National Archives must preserve and provide public access to records over 20 years old.
+    - State Records Act 1998 (NSW)
+      - Governs the creation, management, and disposal of NSW government records.
+  - 4. Protecting Information: Privacy Legislation
+    - Privacy Act 1988 (Cth)
+      - Regulates the handling of personal information by Commonwealth agencies and private sector organisations.
+      - Includes Australian Privacy Principles (APPs) governing data collection, storage, and access.
+    - Privacy and Personal Information Protection Act 1998 (NSW) (PPIP Act)
+      - Applies to NSW government agencies, ensuring personal information is managed fairly.
+    - Health Records and Information Privacy Act 2002 (NSW) (HRIP Act)
+      - Covers the handling of health information in NSW.
+  - 5. The Right to Access Information
+    - Freedom of Information Act 1982 (Cth) – s 11(1)
+      - Every person has a legally enforceable right to access:
+        - A document of an agency, unless exempt.
+        - An official document of a Minister, unless exempt.
+    - 5.1. What Can Be Requested?
+      - Documents include written records, electronic files, maps, photographs, emails, and audio recordings.
+      - Agencies include Commonwealth departments and prescribed authorities.
+      - Ministers include documents relating to their official duties.
+  - 6. Refusing Access: FOI Exemptions
+    - Exemptions under FOI Act (Cth) (Pt IV, Div 2 & 3)
+
+Category
+Exemption Type
+Key Provisions
+National Security
+National security, defence, international relations
+s 33
+Law Enforcement	
+Law enforcement, public safety
+s 37
+Government Operations
+Cabinet documents
+s 34
+
+Deliberative process	
+s 47C
+
+Financial/property interests of the Commonwealth
+s 47D
+Privacy & Confidentiality	
+Personal privacy
+s 47F
+
+Legal professional privilege
+s 42
+
+Trade secrets, commercial information
+s 47G
+
+    - Public Interest Test (s 11B FOI Act)
+      - ✔ Factors for disclosure: promotes transparency, informs public debate, allows scrutiny of government decisions.
+      - ❌ Factors against disclosure: harm to national security, breach of confidentiality, substantial adverse effects.
+        - Redaction & Partial Exemptions (s 22 FOI Act)
+          - Agencies must redact exempt parts and provide access to the remaining information where possible.
+  - 7. Practical Refusals & Charges
+    - Practical Refusal Reasons (s 24 FOI Act)
+      - Agency may refuse requests if processing would substantially and unreasonably divert resources.
+      - Applicant must be given a chance to revise the request before refusal.
+    - Charges for FOI Requests
+      - No charges for personal information requests.
+      - Time limits exceeded? Fee waived.
+  - 8. Review & Appeal Rights
+    - 8.1. Merits Review
+      - Internal Review (s 54 FOI Act) – Agency reconsiders its own decision.
+      - Information Commissioner Review (s 55L FOI Act) – Independent review.
+      - AAT Review (s 57A FOI Act) – Tribunal review of Information Commissioner decisions.
+    - 8.2. Judicial Review
+      - Federal Court review for errors of law under the Administrative Decisions (Judicial Review) Act 1977 (Cth).
+      - NSW Supreme Court review under judicial review principles.
+  - 9. Case Law: Key FOI Decisions
+    - Warren v Chief Executive Officer, Services Australia [2024] FCAFC 73
+      - Facts: FOI request for Robodebt-related documents, rejected under Cabinet exemptions.
+      - Issue: Whether procedural fairness was denied in the AAT process.
+      - Decision: Federal Court ruled procedural unfairness and set aside the decision.
+      - Significance: Reinforced narrow interpretation of FOI exemptions and importance of procedural fairness.
+    - Beesley v Australian Federal Police (2001) 111 FCR 1
+      - Facts: AFP refused access to database info stored in another department.
+      - Issue: Did AFP have "constructive possession" of the document?
+      - Decision: Constructive possession was sufficient for FOI Act application.
+      - Significance: Expanded interpretation of "possession" under FOI law.
+  - 10. Exam Answer Formula 📖
+    - 1. Establish the Right to Access
+      - Legally enforceable right to access government-held information (Freedom of Information Act 1982 (Cth) s 11(1)).
+      - Applicant must be an individual or entity (e.g., incorporated association) (s 11(2)).
+      - Applies to “documents of an agency” or “official documents of a Minister” (s 4).
+      - Key authority: Beesley v Australian Federal Police (2001) 111 FCR 1 – Constructive possession applies if an agency has control, even if it does not physically hold the document.
+    - 2. Determine Whether the Document is Exempt
+      - Conclusive exemptions (cannot be disclosed) – s 11A(4):
+        - Cabinet documents (s 34).
+        - National security, defence, international relations (s 33).
+        - Law enforcement (s 37).
+        - Documents subject to secrecy provisions (s 38).
+        - Legal professional privilege (s 42).
+        - Trade secrets (s 47).
+      - Conditionally exempt (requires a public interest test) – s 11A(5):
+        - Deliberative process documents (s 47C).
+        - Intergovernmental communications (s 47B).
+        - Agency operations (s 47E).
+        - Personal privacy (s 47F).
+      - Key authority: Warren v Chief Executive Officer, Services Australia [2024] FCAFC 73 – Cabinet exemption (s 34) only applies if the document reveals Cabinet deliberations.
+    - 3. Apply the Public Interest Test (s 11B FOI Act)
+      - Required for conditionally exempt documents.
+      - Public interest factors in favour of disclosure (s 11B(3)):
+        - (a) Promotes transparency and accountability.
+        - (b) inform debate on a matter of public importance;
+        - (c) promote effective oversight of public expenditure;
+        - (d) allow a person to access his or her own personal information.
+      - Against disclosure (s 11B(4)):
+        - Would cause harm to government decision-making s 11B(4)(a)).
+        - Would prejudice Commonwealth-State relations (s 11B(4)(b)).
+      - Invalid reasons for refusal:
+        - 🚫 Embarrassment to the government is NOT a valid reason (s 11B(4)(a)).
+        - 🚫 Misinterpretation/misunderstanding is NOT a valid reason (Re Prinn and Dept of Defence (2016) 152 ALD 162).
+        - Rank of the individual is not relevant
+      - Key authority: Re McKinnon and Secretary, Dept of Treasury (2005) 90 ALD 197 – Government must provide specific evidence of harm; vague claims of “damage” are insufficient.
+    - Practical Refusals & Redactions
+      - Practical refusal (s 24 FOI Act)
+        - Request may be refused if it would substantially and unreasonably divert resources (s 24AA).
+        - Agency must consult applicant before refusing (s 24AB).
+      - Redactions (s 22 FOI Act) 
+        - Agencies must redact exempt portions and provide access to the rest.
+      - Key authority: Re Thomas and Secretary, Dept of Defence [2018] AATA 604 – The agency must consider whether partial release is possible rather than outright refusal.
+    - Step 4: Consider Partial Access (Redaction & Practical Refusals)
+      - If only parts of documents are exempt, the agency must provide a redacted version under s 22 FOI Act.
+      - If requests are too broad or burdensome, agencies can refuse on practical refusal grounds (s 24 FOI Act), but must first consult the applicant.
+    - 5. Review & Appeal Options
+      - Merits Review (Reassessment of the decision):
+        - 1. Internal Review (s 54 FOI Act)
+          - Request review by the Department itself within 30 days.
+        - 2. Information Commissioner Review (s 54L FOI Act)
+          - Independent review of the Department’s decision.
+          - The IC can affirm, vary, or set aside the decision (s 55K FOI Act).
+        - 3. AAT Review (s 57A FOI Act)
+          - If dissatisfied with the IC’s decision, appeal to the Administrative Appeals Tribunal.
+      - Judicial Review (Legality review only):
+        - Federal Court (Administrative Decisions (Judicial Review) Act 1977 (Cth)) – If there is an error in law.
+        - NSW Supreme Court (for GIPA Act refusals in NSW).
+      - Key authority: Warren v Services Australia [2024] FCAFC 73 – Procedural unfairness (e.g., relying on secret evidence) is grounds for judicial review.
+## Week 2: Executive power
+
+- Executive Power
+  - Constitution ss 61, 62
+    - Queen
+    - Governor-General
+    - Ministers (PM and Cabinet)
+    - Occur in
+      - Departments 
+      - Statutory bodies 
+      - Councils 
+      - Tribunals
+      - Public servants
+      - Agencies 
+      - Integrity institutions
+      - Schools, prisons etc
+  - Flipchart of PGPA Act Commonwealth entities and companies (191) | 1 November 2023
+    - 
+  - Sources of executive power
+    - Statutory powers
+    - Prerogative power
+    - Nationhood powers
+    - Legal personality
+  - Federal
+    - Source of executive power
+      - Legislation: Enacted by Commonwealth Parliament as permitted by the Constitution
+      - Other: Prerogative, nationhood and common law powers
+    - Executive review mechanisms (examples)
+      - Merits review tribunal: AAT (to be replaced by ART)
+      - Inquiries, investigations: Commonwealth Ombudsman, National Anti-Corruption Commission, Commonwealth Auditor-General etc
+      - Access to information: Freedom of Information Act 1982 (Cth) and Information Commissioner
+    - Judicial review
+      - High Court: Constitution
+      - Federal Court: Judiciary Act 1903 (Cth) and Administrative Decisions (Judicial Review) Act 1977 (Cth)
+      - (also Federal Circuit Court)
+  - State 
+    - Source of executive power
+      - Legislation: Enacted by State Parliament using plenary power, subject to Constitutional limits
+      - Other: Prerogative and common law powers
+    - Executive review mechanisms (examples)
+      - Merits review tribunal: NSW Civil and Administrative Tribunal
+      - Inquiries, investigations: NSW Ombudsman, ICAC etc
+      - Access to information: Government Information (Public Access) Act 2009 (NSW)
+    - Judicial review
+      - NSW Supreme Court: Common law judicial review pursuant to s 69 of the Supreme Court Act 1970 (NSW)
+  - Local
+    - Source of executive power
+      - Power conferred pursuant to State legislation 
+- Public Law Values
+  - Legality
+  - Fairness Consistency
+  - Rationality
+  - Integrity
+  - Honesty
+  - Accountability
+  - Accessibility
+  - Participation
+  - Efficiency
+  - Effectiveness
+- The targets of administrative law
+  - Administrative law targets
+    - 1. Who is the decision-maker?
+    - 2. What act or instrument are we targeting?
+  - Parliament
+    - Is this Act valid -> Leave this to constitutional lawyers
+    - Confers administrative power to cancel entitlement
+    - Sends to Minister (Decision-Maker) 
+      - Cancels A’s entitlement (Decision)
+  - Parliament
+- TL;DR — Week 1
+  - Executive branch: largest part of government, includes high level officials, institutions and public servants at Federal, State and Local level
+  - Executive power: Vast range of powers across areas of administration (welfare, policing, education, taxation, quarantine, visas, international relations etc)
+  - Sources of power: Mainly statute, but also prerogative, nationhood, common law legal personality
+  - Executive review mechanisms: Review government from inside the executive branch (eg tribunals, ombudsmen, Auditors-General)
+  - Judicial review: Federal and State courts review government from the judicial branch, authorised by Constitution, statute and common law
+  - Public law values: Underpin rules we will learn about (eg legality, fairness, consistency, rationality, integrity, honesty, accountability, effectiveness, efficiency, accessibility, participation)
+  - What are we challenging? Pay close attention to who and what we’re challenging when there are multiple actions/instruments in the decision-making chain
+- In summary, it could be said that three principles underpin the administrative law system: 
+  - administrative justice def, which, at its core, is a philosophy that in administrative decision-making the rights and interests of individuals should be properly safeguarded; 
+  - executive accountability def, which is the aim of ensuring that those who exercise the executive  (and coercive) powers of the state can be called on to explain and to justify the way in which  they have gone about that task; and 
+  - good administration def, which is the principle that administrative decision-making should  conform to universally accepted standards, such as rationality, fairness, consistency and  transparency.
+- Adding a fourth integrity branch to three-branch legislative, executive, and judicial model
+- Kerr Report (1971)
+  - Background & Context:
+    - Commissioned in 1968, chaired by Sir John Kerr.
+    - Aimed to review Commonwealth administrative law due to concerns about inconsistency, complexity, and lack of accessibility.
+    - At the time, judicial review was available under common law and s 75(v) of the Constitution, but was hindered by cost, secrecy, and legal technicalities.
+    - Other countries (UK, NZ) had already reformed administrative law, influencing the Committee’s recommendations.
+  - Key Issues Identified:
+    - Fragmented and inconsistent administrative review (different tribunals with varying powers and procedures).
+    - Judicial review was insufficient – legal technicalities and cost limited access.
+    - Over-reliance on parliamentary and executive accountability, which was ineffective.
+    - Lack of transparency and access to reasons for government decisions.
+  - Major Recommendations & Reforms:
+    - Judicial Review Reform
+      - Led to the Administrative Decisions (Judicial Review) Act 1977 (Cth), which codified and simplified judicial review procedures.
+    - Creation of a General Merits Review Tribunal
+      - Established the Administrative Appeals Tribunal (AAT) under the Administrative Appeals Tribunal Act 1975 (Cth) for independent merits review of government decisions.
+    - Introduction of the Ombudsman
+      - Recommended a government oversight body (Ombudsman Act 1976 (Cth)) to investigate complaints about administrative decisions.
+    - Establishment of the Administrative Review Council (ARC)
+      - Oversight body to monitor and improve administrative review mechanisms.
+    - Proposed Administrative Procedure Act (Not Implemented)
+      - Aimed to standardize tribunal procedures across different areas of law.
+  - Significance & Impact:
+    - Laid the foundation for modern Australian administrative law, enhancing transparency, accountability, and fairness.
+    - Established structured judicial and merits review mechanisms.Strengthened individual rights in administrative decision-making.
+    - Influenced later reforms, such as the Freedom of Information Act 1982 (Cth) and Privacy Act 1988 (Cth).
+- Craig v Department of Foreign Affairs and Trade (Freedom of Information Appeal) [2023] AATA 2785 
+  - Tribunal: Administrative Appeals Tribunal (AAT)
+    - Presiding Member: Deputy President Britten-Jones
+    - Date of Decision: 28 August 2023
+  - Parties:
+    - Applicant: Mr Craig
+    - Respondent: Department of Foreign Affairs and Trade (DFAT)
+  - Procedural History:
+    - Mr Craig applied for access to an unredacted version of a three-page diplomatic cable (the DFAT Cable) under the Freedom of Information Act 1982 (Cth) (FOI Act). 
+    - DFAT denied full access under s 33(a)(iii) (damage to international relations) and s 33(b) (confidential foreign government communications). 
+    - The applicant sought a review by the AAT.
+  - Facts:
+    - The DFAT Cable (dated 16 November 2007) was sent by Dr Justin Lee (Deputy Head of Mission in Jakarta) to DFAT headquarters in Canberra. 
+    - It summarised discussions between Australian and Indonesian officials regarding the NSW Coronial Inquest into the 1975 deaths of the Balibo Five journalists in Indonesia.
+    - DFAT partially released the document but redacted portions under s 33(a)(iii) and s 33(b) of the FOI Act.
+    - The US diplomatic cable (dated 21 November 2007), published by WikiLeaks and reported in Australian media, allegedly contained similar information.
+    - Mr Craig argued that:
+      - The DFAT Cable should be disclosed because similar information was already public via WikiLeaks.
+      - The FOI Act should not be used to conceal crimes or override higher laws.
+      - The Tribunal should examine the document to determine if it contained evidence of misconduct.
+      - DFAT relied on the affidavit of Mr Ridwaan Jadwat, asserting that disclosure would harm Australia’s international relations with Indonesia.
+  - Legal Issues:
+    - Is the DFAT Cable an "exempt document" under s 33(a)(iii) of the FOI Act?
+    - Would disclosure "reasonably be expected to cause damage to the international relations of the Commonwealth"?
+    - Does prior public disclosure (via WikiLeaks) remove the exemption under s 33(a)(iii)?
+  - Decision:
+    - The Tribunal affirmed DFAT’s decision to deny access.
+    - Exemption under s 33(a)(iii) applies:
+      - The Tribunal accepted Mr Jadwat’s evidence that diplomatic communications occur with an expectation of confidentiality.
+      - Disclosure would erode trust between Australia and Indonesia and reduce diplomatic cooperation.
+      - The Balibo Five issue remains highly sensitive, and disclosure could still harm Australia-Indonesia relations despite the passage of time.
+    - WikiLeaks disclosure is irrelevant:
+      - The US Cable was a third-party hearsay report, not an official Australian document.
+      - Even if accurate, Indonesia would perceive an official Australian disclosure differently from an unauthorised leak.
+      - Breach of diplomatic trust—not just content—is the key issue.
+    - Tribunal's power is limited:
+      - The Tribunal can only decide whether the document is exempt under s 33(a)(iii)—not investigate alleged misconduct.
+  - Ratio Decidendi:
+    - Confidential diplomatic communications are protected under s 33(a)(iii) of the FOI Act.
+    - Even if similar information is leaked by a third party, official disclosure can still harm international relations.
+    - The Tribunal lacks discretion to override an exemption once it is satisfied that disclosure "could reasonably be expected" to cause harm.
+  - Significance:
+    - Reinforces that diplomatic confidentiality is central to international relations and that unauthorised leaks do not negate FOI exemptions.
+    - Confirms strict application of FOI exemptions—public interest considerations do not apply under s 33(a)(iii).
+    - Clarifies the AAT’s limited role in FOI reviews—it cannot override statutory exemptions based on public interest arguments.
+## Week 3: Administrative law outside the courts
+
+- What is accountability?
+  - “a relationship between an actor and a forum, in which the actor has an obligation to explain and to justify his or her conduct, the forum can pose questions and pass judgement, and the actor may face consequences
+  - What is the purpose of accountability?
+    - Legitimacy
+      - To reinforce the legitimacy of government
+    - Transparency
+      - To ensure the availability of an explanation of government performance and decisions
+    - Control
+      - To provide a means to control the government and ensure it acts in conformity with our preferences
+    - Restoration
+      - To ensure that government wrongs are made right
+    - Desert
+      - To punish egregious abuse of power
+    - Deterrence and reform
+      - To facilitate improvements in government performance
+  - Legislature
+    - Parliamentary committees
+    - Representative government
+    - Responsible government
+  - Judiciary
+    - Tort law
+    - Criminal law
+    - Judicial review
+  - Executive
+    - Auditor-General
+    - Commissions
+    - Ombudsmen
+    - Freedom of information
+    - Tribunals
+- Representative and responsible government
+  - Representative and responsible government
+    - Legislature (Constitution)
+      - 1 The legislative power of the Commonwealth shall be vested in a Federal Parliament, which shall consist of the Queen, a Senate, and a House of Representatives …
+      - 7 The Senate shall be composed of senators for each State, directly chosen by the people of the State …
+      - 24 The House of Representatives shall be composed of members directly chosen by the people of the Commonwealth ...	
+    - Executive
+      - 61 The executive power of the Commonwealth is vested in the Queen and is exercisable by the Governor-General ...
+      - 62 There shall be a Federal Executive Council to advise the Governor-General in the government of the Commonwealth ...
+      - 64 ... [N]o Minister of State shall hold office for a longer period than three months unless he is or becomes a senator or a member of the House of Representatives.
+  - Representative and responsible government
+    - Executive Government
+    - Elected members of Parliament
+    - Voters
+    - 
+    - Ministerial responsibility
+      - Collective
+        - Ministers must support Cabinet decisions
+        - Ministers must not speak against government policy
+        - Government must resign in response to vote of no confidence
+      - Individual
+        - Ministers accountable to Parliament for: 
+          - Policies
+          - Performance
+          - Operations within their portfolios Collective Individual
+    - Accountability mechanisms?
+      - Elections
+      - Question time
+      - Vote of no confidence
+      - Ministerial
+      - resignation
+      - Leadership spills
+      - Contempt
+- Parliamentary committees
+  - Parliamentary committees
+    - Types of committees
+      - Standing committees
+        - Created for the life of a Parliament and generally re-established in successive Parliaments
+        - Examples:
+          - Senate Legal and Constitutional Affairs Committee
+          - House Standing Committee on Social Policy and Legal Affairs
+      - Select committees
+        - Appointed to inquire into particular matters, and cease to exist after they make their report
+        - Examples:
+          - Select Committee on Australia’s Disaster Resilience
+          - Select Committee on Supermarket Prices
+      - Joint committees
+        - Consists of members from both Houses of Parliament
+        - Examples:
+          - Foreign Affairs, Defence and Trade
+          - National Disability
+          - Insurance Scheme
+  - Accountability roles
+    - Scrutinise legislation
+      - Senate Legal and Constitutional Affairs Committee – constitutional legality of legislation
+      - Senate Scrutiny of Bills Committee – legislative impact on fundamental rights and liberties Accountability roles
+    - Monitoring interests
+      - House Committee of Privileges and Members Interests
+      - Senators’ Interests Committee
+    - Senate Estimates
+      - Public hearings
+      - Scrutinise government expenditure
+      - Question ministers regarding financial performance of departments and programs
+    - Inquiries
+      - Inquiries into a broad range of issues, including government administration
+      - Eg ‘Senate Select Committee on a Certain Maritime Incident’ – accountability issues including adequacy of administrative practices
+- Auditor-General
+  - Auditor-General
+    - Financial audits
+      - Auditor-General Act 1997 (Cth)
+        - 11 The Auditor-General's functions include auditing the annual financial statements of Commonwealth entities ... and Commonwealth companies ...
+        - 12 The Auditor-General's functions include auditing the annual consolidated financial statements...
+    - Performance audits
+      - Auditor-General Act 1997 (Cth)
+        - s 17 (1) The Auditor-General may at any time conduct a performance audit of a Commonwealth entity ... or a Commonwealth company …
+          - s 5 "performance audit" ... means a review or examination of any aspect of the operations of the person or body.
+        - s 18 (1) The Auditor-General may at any time conduct a review or examination of a particular aspect of the operations of the whole or part of the Commonwealth public sector ...
+    - Independence
+      - Auditor-General Act 1997 (Cth)
+        - (a) Separation of powers
+          - s 8(1) The Auditor-General is an independent officer of the Parliament.
+        - (b) Autonomy
+          - s 8(4) ... [T]he Auditor-General has complete discretion in the performance or exercise of his or her functions or powers. 
+          - In particular, the Auditor-General is not subject to direction from anyone in relation to:
+            - (a) whether or not a particular audit is to be conducted; or
+            - (b) the way in which a particular audit is to be conducted; or
+            - (c) the priority to be given to any particular matter.
+        - (c) Appointment
+          - Schedule 1
+            - cl 1-2: Appointed by the Governor-General on the recommendation of the Minister, who must seek approval from Parliament (ie the Joint Committee of Public Accounts and Audit)
+            - cl 1: 10 year tenure
+            - cl 6: limited grounds for removal
+      - 2020
+        - January: “Sports Rorts” report
+        - September: Hehir requests additional funding to maintain current functions
+        - October: ANAO budget cut by $14 million
+          - “This is revenge for sports rorts” – Julian Hill (Labor MP)
+      - 2021
+        - February: Hehir warns Senate investigations will decrease
+        - May: $62 million funding increase
+- Royal Commissions
+  - Royal Commissions
+    - Royal Commission
+    - Commission of Inquiry
+    - Boards of Inquiry
+    - Special Inquiry
+    - (Executive equivalent to a parliamentary select committee)
+  - Standing commissions
+    - Integrity Commission
+    - Anti-corruption Commission
+    - (Executive equivalent to a parliamentary standing committee)
+  - Establishment
+    - Convention – exercise of prerogative power through letters patent
+      - Prerogative cannot confer coercive powers
+      - Coercive powers conferred by:
+        - Royal Commissions Act 1902 (Cth)
+        - Royal Commissions Act 1923 (NSW)
+  - Jurisdiction
+    - Scope defined by letters patent
+    - Usually:
+      - investigate a particular set of matters
+      - prepare a report
+      - make recommendations
+  - Powers
+    - Coercive powers conferred by legislation (not letters patent)
+      - Royal Commissions Act 1902 (Cth):
+        - apply for search warrants
+        - summon and cross-examine witnesses
+        - require production of documents
+        - hold hearings
+  - Government accountability?
+    - Motivation
+      - Quell public outcry?
+      - Target actions of a previous government?
+    - Examples:
+      - 1987-91 Royal Commission into Aboriginal Deaths in Custody
+      - 2014 Royal Commission into the Home Insulation Program
+      - 2016 Royal Commission and Board of Inquiry into the Protection and Detention of Children in the Northern Territory
+      - 2020 Victorian COVID-19 Hotel Quarantine Inquiry
+      - 2022-23 Royal Commission into the Robodebt Scheme
+    - Outcomes:
+      - Recommendations not legally enforceable
+      - Action is often too weak or too slow
+      - Pressure and transparency
+    - “The Government has agreed, or agreed in principle, to all 56 of the Royal Commission’s recommendations as part of the ongoing work to restore faith, integrity and trust in government.”
+- Integrity commissions
+  - 1980	
+    - Widespread corruption concerns (eg Fitzgerald Inquiry in Qld)
+  - 1990
+    - 1988:NSW ICAC established
+  - 2000
+    - Some major success stories...
+    - And some major controversies…
+  - 2010
+    - Many years of debates and proposals…
+  - 2020
+    - Cth NACC established
+  - Overriding objectives/functions
+    - NSW ICAC NACC
+      - Promote the integrity and accountability of public administration (s 2A(a))
+      - Accountability: investigate and expose corruption (s 13(a))
+      - Prevention: recommend changes to reduce corruption (s 13(d)-(g))
+      - Education: educate the government and public about corruption (s 13(h)-(k)
+    - NACC
+      - Section 3:
+        - Detect corruption
+        - Investigate serious/systemic corruption
+        - Prevent corruption
+        - Educate about corruption
+  - What can be investigated?
+    - Broad definition of corruption + Seriousness threshold
+    - 
+    - 
+    - Seriousness threshold
+      - s 41(3) Can only conduct an investigation if the issue could involve corrupt conduct that is “serious or systemic”
+    - s 12A: As far as practicable, direct attention to “serious corrupt conduct and systemic corrupt conduct”
+    - s 7: “Corrupt conduct” means conduct falling within s 8 but only if not excluded by s 9
+    - s 9: Not corrupt conduct unless:
+      - General:
+        - (a) criminal offence
+        - (b) disciplinary offence
+        - (c) grounds for termination
+      - Additional for Ministers / MPs:
+        - (d) substantial breach of code of conduct
+  - Berejiklian v Independent Commission Against Corruption [2024] NSWCA 177
+    - Facts
+      - Gladys Berejiklian (former Premier and Treasurer) endorsed a number of funding proposals sponsored by Daryl Maguire while in a “close personal relationship”
+      - ICAC made a finding of “serious corrupt conduct” based on breach of the Ministerial Code of Conduct, including findings of conflict of interest, partial exercise of power and “breach of public trust”
+    - Issue
+      - Is the duty only a negative duty to avoid acting for improper reasons?
+      - Was it necessary to show that Berejiklian would not have acted “but for” the private interest?
+        - no
+    - Decision
+      - “a Minister’s obligation not to breach public trust is expressed more broadly than an obligation prohibiting the promotion of private pecuniary interests in circumstances where there is a conflict of interest and public duty” (at [174]).
+      - Showing that a private interest has influenced the exercise of power “is sufficient to constitute a “partial” exercise of the power under s 8(1)(b), ... irrespective of whether the outcome of that exercise would not have been different in the absence of the private interest” (at [256]).
+  - Conducting an investigation
+    - Initiating an investigation
+      - NSW ICAC 
+        - Allegations/ complaints 
+          - s 13(1)(a) 
+        - Referrals, eg from Parliament, other commissions, government departments etc
+          - s 13(1)(b)
+          - s 13A
+          - s 73
+        - Note, referrals mandatory in many contexts
+          - s 11
+        - Own motion 
+          - s 20(1)
+      - NACC
+        - Allegations/ complaints 
+          - s 32
+        - Referrals, eg from Parliament, other commissions, government departments etc
+        - Note, referrals mandatory in many contexts
+          - s 33
+        - Own motion 
+          - s 40(2)
+  - Investigative power
+    - NSW ICAC
+      - Compel production of information / documents
+        - ss 21-22 
+      - Enter premises 
+        - s 23 
+      - Compulsory examinations of witnesses
+        - ss 30 and 35 
+      - Search/surveillance warrants
+        - ss 19, 40-48 
+    - NACC
+      - Compel production of information / documents
+        - ss 57-58
+      - Enter premises 
+        - s 117
+      - Compulsory examinations of witnesses
+        - s 65
+      - Search/surveillance warrants
+        - ss 119-128
+  - Hearings
+    - NSW ICAC
+      - 31(1) [T]he Commission may, if it is satisfied that it is in the public interest to do so, conduct a public inquiry.
+      - (2) ...in determining whether or not it is in the public interest ... the Commission is to consider:
+        - (a) the benefit of exposing to the public ... corrupt conduct,
+        - (b) the seriousness of the allegation or complaint,
+        - (c) any risk of undue prejudice to a person's reputation 
+        - ...,
+        - (d) whether the public interest in exposing the matter is outweighed by the public interest in preserving the privacy of the persons concerned.
+    - NACC
+      - 73 (1) A hearing must be held in private, unless the Commissioner decides to hold the hearing, or part of the hearing, in public .
+      - (2) The Commissioner may decide to hold a hearing, or part of a hearing, in public if the Commissioner is satisfied that:
+        - (a) exceptional circumstances justify holding the hearing, or the part of the hearing, in public ; and
+        - (b) it is in the public interest to do so.
+      - Public interest criteria defined in s 73(3)
+  - Outcomes
+    - NSW ICAC
+      - Findings and recommendations
+        - Make findings of corruption 
+          - s 13(5)(a) 
+        - Make recommendations 
+          - s 13(3) 
+        - Follow up on recommendations 
+          - s 111E 
+      - Reports
+        - Prepare investigation report (restrictions on certain findings, procedural protections apply)
+          - s 74 
+        - Public access to report:
+          - Compulsory release in some  cases (eg where public hearing was held)
+          - ICAC: broad powers to the table and publish reports
+          - NACC: only if in public interest 
+            - ss 74(4), 78 
+    - NACC
+      - Findings and recommendations
+        - Make findings of corruption 
+          - s 149(2)
+        - Make recommendations 
+          - s 149(6)
+        - Follow up on recommendations 
+          - s 160
+      - Reports
+        - Prepare investigation report (restrictions on certain findings, procedural protections apply)
+          - s 149
+        - Public access to report:
+          - Compulsory release in some  cases (eg where public hearing was held)
+          - ICAC: broad powers to the table and publish reports
+          - NACC: only if in public interest 
+            - ss 155-156
+- Ombudsmen
+  - International Ombudsman Institute
+    - Mechanism for low value disputes
+    - Overcome power imbalances
+    - Simple to use and access
+    - Can target systemic issues
+    - Legal and non-legal disputes
+    - [T]o protect the people against violation of rights, abuse of powers, error, negligence, unfair decisions and maladministration and to improve public administration while making the government’s actions more open and its administration more accountable to the public.
+  - Commonwealth Ombudsman
+    - 1. Functions
+    - 2. Investigative jurisdiction
+    - 3. Powers
+    - 4. Case study: Robodebt
+  - Ombudsmen Functions
+    - Oversight roles
+      - Whistleblowing: Public Interest Disclosure Act 2013 (Cth)
+      - Covert surveillance: Surveillance Devices Act 2004 (Cth)
+      - Immigration detention: Migration Act 1958 (Cth) s 4860
+    - Specialty areas
+      - Commonwealth Ombudsman
+        - Defence Force Ombudsman
+        - Postal Industry Ombudsman
+        - Overseas Students Ombudsman
+        - Private Health Insurance Ombudsman
+        - Student Loans Ombudsman
+    - Investigations
+      - Ombudsman Act 1976 (Cth)
+        - Complaints      Own motion
+          - 5(1) Subject to this Act, the Ombudsman: 
+            - (a) shall investigate ... action that relates to a matter of administration ... in respect of which a complaint has been made to the Ombudsman;
+            - (b) may, of his or her own motion, investigate any action ... that relates to a matter of administration, taken ... by a Department or by a prescribed authority
+          - A systemic focus?
+            - Our role in the early days was to resolve complaints (or swat the flies), rather than tackle the systemic issues within an agency which led to the complaints in the first place (hunt the lions). ... We now set out to hunt more lions, with the belief that if we remove the things that attract flies (the complaints), the flies will disappear of their own accord.
+              - Richard Glenn, ‘Keynote Address’ (Speech at the Tax
+  - Jurisdiction
+    - (a) What may be investigated?
+      - ... action that relates to a matter of administration’ (s 5(1))
+      - Narrow reading:
+        - Legislative action✖
+        - Judicial action✖
+        - High policy decisions✖
+      - ... but is this unduly restrictive?
+    - (b) Who may be investigated?
+      - Captured 
+        - Commonwealth Departments 
+          - s 5(1)
+        - Prescribed authorities (ie body established by legislation for a public purpose) 
+          - ss 3, 5(1)
+        - Private contractors: the contracting Department/authority is taken to have performed the action taken by the contractor
+          - s 3(4B)
+      - Exclusions
+        - Ministers 
+          - s 5(2)(a)
+        - Proceedings in Parliament 
+          - s 5(2)(aa)
+        - Judges 
+          - s 5(2)(b)
+        - Appointment and employment decisions (eg appointment to public office, APS promotion/discipline)
+          - s 5(2)(d)-(g)
+        - Note power to transfer relevant complaints to other appropriate bodies (eg ACMA, Information Commissioner, Parliamentary Service Commissioner etc): see s 6
+    - (c) Discretion not to act
+      - (i) Conduct of the applicant
+        - 12 month delay in raising complaint
+        - frivolous, vexatious, or not made in good faith
+        - complainant does not have a sufficient interest
+          - s 6(1)
+      - (ii) Subject matter of the decision
+        - relates to a commercial activity of a Department or prescribed authority
+          - s 6(12)
+      - (iii) Availability of other mechanisms
+        - internal review/ complaints
+        - tribunal review, legal proceedings
+          - s 6(1A), (3), (4)
+      - (iv) General catch-all
+        - “An investigation, or further investigation, of the action is not warranted having regard to all the circumstances”
+          - s 6(1) (b)(3)
+  - Glenister v Dillon [1976] VR 550
+    - Facts
+      - Prisoners complained to the Ombudsman (Dillon) about the Head of the Crown Law Department (Glenister) taking too long to bring their matters to trial
+      - Glenister disputed the Ombudsman’s jurisdiction to investigate
+    - Issue
+      - Did this complaint relate to a matter of administration?
+        - no
+    - Decision
+      - “[A] matter of administration” means any subject that should arise in the course of administration, or putting it another way, in the performance of the executive function of government (at 558)
+      - • “[A]ny activity in the areas of the exercise of judicial function or the enactment of legislation by Parliament would be beyond the jurisdiction of the Ombudsman” (at 558)
+      - “[P]atently the delay is something that occurred in the area of the judicial process and ... is not concerned with any activity (or inactivity) relating to the performance of any executive power” (at 559)
+  - Booth v Dillon (No 3) [1977] VR 143
+    - Facts
+      - Two prisoners had been separately charged by the Governor of a prisoner with disobeying an order
+      - Each complained to the Ombudsman about the manner in which the Governor heard and determined those charges
+      - The Director-General of Social Welfare (Booth) challenged jurisdiction
+    - Issue
+      - Did this complaint relate to a matter of administration?
+        - yes
+    - Decision
+      - [T]he ... distinction to be drawn is that between acts which may properly be described as falling within the performance of the executive function of government and those which fall within the performance of the legislative and judicial functions of government (at 144)
+      - The provisions to which I have referred, in my opinion, point strongly to the conclusion that... the governor is exercising his administrative responsibility for the due order, management and discipline of the prison under his charge. The hearing of charges ... is clearly related to the discharge of his administrative responsibility (at 147)
+      - [E]ven if there are elements of what could be described as the discharge of a judicial function in what he does, such elements are incidents only to the executive function he is discharging (at 147)
+  - Booth v Dillon (No 2) [1976] VR 434
+    - Facts
+      - Victorian Ombudsman investigated complaints about sexual assault committed against young male prisoners
+      - The Ombudsman’s draft report considered the Department of Social Welfare’s failure to take steps to alter prisoner sleeping arrangements so as to reduce incidents of sexual violence
+    - Issue
+      - Did this investigation relate to a matter of administration?
+        - No
+    - Decision
+      - [T]he matter to be investigated must relate to administration; a matter of policy is outside the scope of the Ombudsman's jurisdiction (at 435)
+      - [N]o clear line of demarcation exists between what is involved in policy and what is involved in administration (at 439)
+      - The provision of funds for the particular purposes of a Department is not a matter of administration... The question of what should be included in the estimates of a Department, and the priority of those included, is again a matter of policy (at 439)
+      - [I]t is a matter of administration as to whether or not any action of an administrative nature was or was not taken to deal with the matter of alleged sexual assaults (at 439).
+  - Powers
+    - (a) Running an investigation
+      - Investigative powers
+        - Obtain information and documents 
+          - s 9(1)
+        - Require a person to attend and answer questions
+          - s 9(2)
+        - Examine witnesses under oath 
+          - s 13
+        - Enter premises and inspect documents
+          - s 14
+      - Protections
+        - Investigation occurs in private
+          - s 8(2)
+        - Advance notice to the principal officer of the Department/ authority
+          - s 8(1)
+        - Opportunity to be heard before reporting a critical opinion
+          - s 8(5)
+        - Protection from liability/reprisal
+          - s 8(2A)-(2E)
+    - (b) Findings
+      - Ombudsman Act 1976 (Cth) s 15(1)
+        - Contrary to law
+        - Unreasonable, unjust, oppressive, improperly discriminatory
+        - Applied a law or practice that is unreasonable, unjust, oppressive, improperly discriminatory
+        - Based on mistake of law or fact
+        - ‘Was otherwise, in all the circumstances, wrong’
+        - Exercise of discretionary power:
+          - based on an improper purpose or irrelevant grounds
+          - took into account irrelevant considerations or failed to take into account relevant considerations
+          - not accompanied by a required statement of reasons
+    - (c) Outcomes
+      - (i) Make recommendations (s 15(2))
+        - the matter should be reconsidered
+        - ‘action... should be taken to rectify, mitigate or alter the effects of a decision...’
+        - a decision should be canceled or varied
+        - a rule or practice should be altered
+        - reasons should have been given
+        - ‘any other thing should be done
+      - (ii) Track recommendations (s 15(4))
+        - Did They Do What They Said They Would (2022)?
+      - (iii) Report “up the chain” (ss 16-17)
+        - Prime Minister: s 16
+        - Parliament: s 17
+  - Robodebt
+    - ✔ Matter of administration?
+    - ✔ Contrary to law?
+    - ✔ Power to uncover the problem?
+    - ✔ Power to expose the problem?
+    - ✔ Power to address the problem?
+    - ✖ Effective action on Robodebt?
+    - Did not use available mechanisms to refer/ seek advice on legality
+    - Accepted DHS claims regarding legality
+    - Removed draft text raising concerns regarding legality
+    - Influenced (even "co-written? ") by DHS
+    - Rush job: concern to assist current complainants and complete during Acting Ombudsman's term
+    - Does not seek independent advice on legality
+    - Draft (tentative) comment on legality
+    - Agrees to remove draft comment on DHS request
+    - “What is depressingly clear... is that the Ombudsman’s Office was not able to fulfil its role in exposing maladministration over the almost three years it investigated Robodebt complaints; it took litigation to do that. Individuals who were the victims of unfair debt raising could not look to the Ombudsman’s Office for relief.”
+  - TL;DR — Week 2
+    - Accountability: core administrative law theme, looks for adequate mechanisms to hold power in check and respond to accountability problems (eg lack of transparency, excess of power, abuse of power etc)
+    - Parliament: supports executive accountability through principles of responsible government, representative government, and parliamentary committee scrutiny
+    - Auditor-General: audits government finances and performance
+    - Royal commissions: appointed by government to investigate a discrete issue of public concern (recommendations not binding)
+    - Integrity commissions: ongoing scrutiny role in investigating government corruption and reducing opportunities for corruption
+    - Ombudsmen: grievance-handling bodies that investigate maladministration and make recommendations (recommendations not binding)
+    - Individual grievances v systemic issues: sometimes individual complaints (eg
+      - “I should not have received this debt notice”) are symptoms of bigger underlying problems in executive power (eg the government is using an unlawful debt-notice system)
+- "The Deep Colonizing Practices of the Australian Royal Commission into Aboriginal Deaths in Custody" – Elena Marchetti
+  - Title: 
+    - The Deep Colonizing Practices of the Australian Royal Commission into Aboriginal Deaths in Custody
+  - Author: 
+    - Elena Marchetti
+  - Published By: 
+    - Journal of Law and Society (2006)
+  - Context & Background:
+    - The Royal Commission into Aboriginal Deaths in Custody (RCIADIC) was established in 1987 to investigate the deaths of 99 Indigenous people in custody between 1980–1989.
+    - It was expected to be a transformative process addressing systemic racial injustice in the criminal justice system.
+    - However, despite extensive findings and 339 recommendations, Indigenous incarceration and deaths in custody remain disproportionately high, and government responses have been inadequate.
+    - This paper argues that RCIADIC, while intended to be a “decolonizing” inquiry, instead engaged in “deep colonizing” practices that reinforced colonial legal structures and marginalized Indigenous perspectives.
+  - Key Issues Identified:
+    - Liberal Legal Ideology as a Tool of Oppression
+    - Law presents itself as neutral and objective, but in practice, it upholds colonial power structures.
+    - Legal processes, rather than individual legal rules, continue to marginalize Indigenous peoples.
+    - RCIADIC, despite being framed as an independent inquiry, relied on Western legal traditions that filtered and constrained Indigenous voices.
+  - Structural Issues with RCIADIC’s Investigation
+    - The inquiry’s methods, although appearing inclusive, failed to challenge existing institutional racism.
+    - Despite the appointment of an Indigenous commissioner (Patrick Dodson) and the establishment of Aboriginal Issues Units (AIUs), Indigenous perspectives were often disregarded or reshaped to fit legalistic frameworks.
+    - Legal professionals (mostly non-Indigenous) dominated the process, marginalizing Indigenous staff and community voices.
+    - Failure to Incorporate Indigenous Knowledge and Cultural Sensitivities
+    - Testimonies from Indigenous communities were undervalued if they did not meet Western evidentiary standards.
+    - Gendered Indigenous experiences were silenced, particularly regarding women’s deaths, family violence, and systemic abuse.
+    - Cultural protocols around discussing death were ignored, causing distress and alienation among Indigenous communities.
+  - Denial of Justice and Lack of Tangible Outcomes
+    - RCIADIC found that most deaths were not caused by deliberate police violence, but due to systemic over-incarceration and failures in custodial care.
+    - No police or prison officers were held accountable, reinforcing Indigenous distrust in the legal system.
+    - Many families of the deceased did not receive copies of death reports, highlighting a lack of transparency and respect.
+    - Recommendations for reform were only partially implemented, and many have since been ignored.
+    - Findings from Interviews (48 Participants, Both Indigenous & Non-Indigenous):
+      - Social & Professional Subordination – Indigenous staff, particularly those in AIUs, were paid less, given less authority, and worked in lower-status roles than their non-Indigenous counterparts.
+      - Denial of Indigenous Expertise – Indigenous perspectives were dismissed as unreliable, and AIUs had little control over how their research was used in the final report.
+      - Cultural Blind Spots in Legal Processes – The legal framework failed to accommodate Indigenous ways of knowing, grieving, and storytelling.
+      - Emotional & Psychological Harm – Indigenous staff and families experienced trauma, yet no support or counselling was provided during or after the inquiry.
+  - Major Recommendations & Reforms (Implicit in the Paper):
+    - Future inquiries should centre Indigenous knowledge, voices, and leadership rather than filtering them through Western legal structures.
+    - Legal processes must acknowledge and integrate Indigenous cultural norms (e.g., protocols around discussing death and gendered perspectives).
+    - Truth-telling mechanisms, rather than legal commissions, may be more appropriate for addressing historical injustices.
+    - Structural reform is necessary beyond policy recommendations—there must be binding obligations for government implementation.
+  - Legal & Policy Impact:
+    - RCIADIC remains one of Australia’s most significant legal inquiries, but its failure to implement real change demonstrates the limitations of state-led commissions in dismantling systemic racism.
+    - Some Supreme Court justices (e.g., in South Australia) have referred to RCIADIC recommendations in sentencing Indigenous offenders, but systemic change has been minimal.
+    - Indigenous incarceration rates have continued to rise, demonstrating that RCIADIC’s findings were not effectively acted upon.
+    - The Uluru Statement from the Heart (2017) and calls for a Voice to Parliament can be seen as contemporary responses to the limitations of inquiries like RCIADIC.
+  - Criticism & Debate:
+    - Some scholars argue that RCIADIC’s failure was due to government inaction, not the commission itself.
+    - Others, including Marchetti, argue that RCIADIC’s own processes reinforced colonial dominance, making meaningful reform impossible.
+    - The paper contributes to critical legal scholarship by expanding the concept of "deep colonizing" and demonstrating how even well-intended legal inquiries can uphold systemic oppression.
+  - Relevance to Modern Law:
+    - Demonstrates the failure of legal institutions to fully decolonize and empower Indigenous communities.
+    - Highlights the ongoing challenge of achieving justice for Indigenous deaths in custody.
+    - Raises questions about whether legal commissions of inquiry are the best approach to Indigenous justice issues.
+  - Final Takeaway: RCIADIC, despite its progressive aims, ultimately reinforced colonial legal structures, demonstrating the inherent limitations of state-led legal processes in addressing Indigenous injustice. Future reforms must move beyond symbolic inclusivity and ensure genuine Indigenous self-determination in legal and policy-making processes.
+## Week 4: FOI Requests and Merit Review
+
+- Access to information: an overview
+  - Accessing information
+    - Freedom of information regimes:
+      - Freedom of Information Act 1982 (Cth)
+      - Government Information (Public Access) Act 2009 (NSW)
+    - Archives legislation:
+      - Archives Act 1983 (Cth) 
+      - State Records Act 1998 (NSW)
+  - Preserving information
+    - Archives legislation:
+      - Archives Act 1983 (Cth) 
+      - State Records Act 1998 (NSW)
+  - Protecting information
+    - Privacy legislation:
+      - Privacy Act 1988 (Cth)
+      - Privacy and Personal Information Protection Act 1998 (NSW)
+      - Health Records and Information Privacy Act 2002 (NSW)
+  - Which jurisdiction?
+    - Freedom of Information Act 1982 (Cth)
+      - Documents held by Commonwealth departments, agencies, Ministers
+    - Government Information (Public Access) Act 2009 (NSW)
+      - Documents held by New South Wales departments, agencies, Ministers
+  - Commonwealth Legislation
+    - Australian Information Commissioner Act 2010 (Cth)
+      - Establishes the Australian Information Commissioner
+    - Freedom of Information Act 1982 (Cth)
+      - Creates right of access
+      - Defines when documents can be withheld (exemptions)
+      - Defines rights to challenge/ appeal decisions to withhold
+    - Freedom of Information (Charges) Regulations 2019 (Cth)
+      - Sets possible fees / charges for providing access
+    - FOI Guidelines
+      - s 93A(1) The Information Commissioner may, by instrument in writing, issue guidelines for the purposes of this Act.
+      - Provides guidance on the FOI Act (including exemptions)
+  - Status of the FOI Guidlines
+    - Not a decision-making straitjacket
+      - s 93A(2) For the purposes of the ... exercise of a power, under this Act, regard must be had to any guidelines issued by the Information Commissioner.
+      - (3) Guidelines are not legislative instruments
+    - BUT
+    - Are relevant and should be considered
+      - [G]uidelines of this sort play an important role in administrative decision-making ... Even though they play such an important role, Guidelines must not be followed without consideration of their validity ... I disagree that decision-makers ... “should” apply the Guidelines. The obligation is to have “regard” to them ie “...to take into account; consider...”. It is not to “apply” them ie “...bring to bear, put into practical operation, as a principle, rule, law, etc...”. Regard can only be had to them if they are made lawfully ie within the scope of the power conferred by s 93A and consistently with the FOI Act.
+        - Re Prinn and Dept of Defence (2016) 152 ALD 162, 176-77
+  - Guiding rationale for FOI
+    - Transparency
+    - Participation
+    - Accessibility
+    - Accountability
+      - 3(1) The objects of this Act are to give the Australian community access to information held by the Government of the Commonwealth, by (a) requiring agencies to publish the information and (b) providing for a right of access to documents. 
+      - 3(2) The Parliament intends ... to promote Australia's representative democracy by... (a) increasing public participation ... with a view to promoting better-informed decision-making and (b) increasing scrutiny, discussion, comment and review of the Government's activities.
+      - 3(3) The Parliament also intends ... to increase recognition that information held by the Government is to be managed for public purposes, and is a national resource. 
+      - 3(4) The Parliament also intends that functions and powers given by this Act are to be performed and exercised, as far as possible, to facilitate and promote public access to information, promptly and at the lowest reasonable cost.
+- Proactive release of government information
+  - Information publication scheme
+    - Agency information
+      - “Agency plan” (ie outline of how the agency will publish required information) (s 8(1))
+      - Required information:
+        - Structure (eg organisational chart) (s 8(2)(b))
+        - Functions (eg powers affecting members of the public) (s 8(2)(c))
+        - Operational information (eg rules, guidelines, precedents etc used by the agency) (s 8A(1))
+        - Consultations (ie opportunities for the public to comment / participate in agency operations) (s 8(2)(f))
+    - Disclosure log
+      - Agency/Minister must publish information about documents to which access has been granted, unless unreasonable to do so (eg personal information) (s 11C)
+      - ie agencies will tell us what documents have been released under FOI
+      - Information Commissioner, ‘Disclosure Log Desktop Review’ (September 2021)
+        - Agency practice in 2019-20:
+          - 42% summarise the FOI request
+          - 11% describe the documents released
+          - 60% provided documents for direct download
+    - Proactive release of information
+      - 
+- Right of access
+  - Freedom of Information Act 1982 (Cth)
+    - General right of access
+      - 11(1) Subject to this Act, every person has a legally enforceable right to obtain access in accordance with this Act to:
+        - (a) a document of an agency, other than an exempt document; or
+        - (b) an official document of a Minister, other than an exempt document.
+    - What can we request?
+      - Questions we need to answer:
+        - (1) What is a ‘document’?
+        - (2) What is an ‘agency’ / ‘Minister’?
+        - (3) When is a document ‘of’ an agency / an official document ‘of’ a Minister (ie possession/control)?
+        - (4) What makes a document ‘exempt’?
+    - From whom?
+      - Questions we need to answer:
+        - (1) What is a ‘document’?
+        - (2) What is an ‘agency’ / ‘Minister’?
+        - (3) When is a document ‘of’ an agency / an official document ‘of’ a Minister (ie possession/control)?
+        - (4) What makes a document ‘exempt’?
+    - How?
+  - What Can We Request
+    - ‘Documents’
+      - Summary of s 4:
+        - Very broad – goes beyond written records to capture other forms in which information can be stored
+        - Non-exhaustive (ie “document” includes ...)
+        - Captures parts, reproductions and duplicates
+      - Excluded
+        - (a) Not ‘documents’
+          - 4 “document"
+          - …
+          - does not include:
+          - (d) material maintained for reference purposes that is otherwise publicly available; or
+          - (e) Cabinet notebooks.
+        - (b) Documents exclusive to other regimes
+          - documents held by the National Archives: s 12(1)(a))
+          - documents held in official collections (eg Australian War Memorial and National Library) (s 13)
+          - documents available for purchase (eg birth certificate, land title) (s 12(1)(b)-(c))
+        - (c) Narrow entitlement in some areas
+          - Limited access to categories of documents for certain bodies (examples)
+        - Agency
+          - Ministers
+            - Only captures documents held in ‘capacity as a Minister, being a document that relates to the affairs of an agency or of a Department of State’: s 4 def. “document of a Minister”
+          - Courts / tribunals
+            - Only captures documents of administrative nature: s 5
+          - Official Secretary Governor-General
+            - Only captures documents of administrative nature: s 6A
+          - ABC / SBS
+            - Program material/content excluded: s 7(2), Sch 2
+          - Reserve Bank
+            - Banking operations / exchange excluded: s 7(2), Sch 2
+          - Australia Post
+            - Banking operations / exchange excluded: s 7(2), Sch 2
+          - Department of Defence
+            - Operational intelligence excluded: s 7(2), Sch 2
+  - From Whom?
+    - (1) Agencies and Ministers
+      - (a) ‘Agencies’
+        - 4 “Agency" means a Department, a prescribed authority or a Norfolk Island authority.
+      - (b) Ministers
+        - ie Commonwealth Government Ministers (Commonwealth Minister for Finance etc)
+          - (i) Departments
+            - ie Australian Public Service Departments (s 4)
+          - (ii) ‘Prescribed authorities’
+            - Captured
+              - Body established for a public purpose by legislation / order: s 4 def., (a)
+              - Person holding office established by legislation / order: s 4 def., (c)
+              - Bodies/persons specified in regulations: s 4 def., (b)-(d)
+              - NBNCo: s 4 def., (aa)
+            - Excluded (examples)
+              - Royal Commission: s 4 def., (a)(vi)
+              - Incorporated companies: s 4 def., (a)(i)
+              - Land Councils: s 7(1), Sch 2
+              - Auditor-General: s 7(1), Sch 2
+              - ASIO: s 7(1), Sch 2
+              - Parliamentary Budget Office: s 7(1), Sch 2
+    - (2) ‘Of an agency’, ‘of a Minister’
+      - (a) Possession
+        - 4 [A] document is a document of an agency if ... the document is in the possession of the agency...
+        - 4 "official document of a Minister..." means a document that is in the possession of a Minister …
+      - (b) Constructive possession: power and control
+        - FOI Guidelines 2.36: ‘Possession’ of a document is not limited to actual or physical possession, but can include constructive possession where an agency has the right and power to deal with a document, regardless of where and by whom it is stored…
+        - 4 [A] Minister shall be deemed to be in possession of a document that has passed from his or her possession if he or she is entitled to access to the document and the document is not a document of an agency.
+      - (c) Private contractors
+        - 4 [A] document is a document of an agency if ... in order to comply with section 6C, the agency has taken contractual measures to ensure that it receives the document.
+        - s 6C: Agencies must include a clause in their contracts that allow the agency to obtain documents from the contractor
+        - Eg: “The Contractor must, within 7 days of receiving a written request by the Agency, provide the Agency with immediate access to the following information contained in records held by the Contractor...”
+  - Beesley v Australian Federal Police (2001) 111 FCR 1
+    - Facts
+      - Applicant requested access to information held by the Australian Federal Police
+      - The AFP had the ability to access a database (Law Enforcement Access Network – LEAN) which was administered by the A-G’s Department
+    - Issue
+      - Was electronic information stored in LEAN a ‘document’ in the ‘possession’ of the AFP?
+    - Decision
+      - [T]he question arises whether a document as defined in s 4 may qualify for the characterisation as one in the "possession" of an agency only if … the agency has actual physical possession of the document (at [64])
+      - In my opinion, the concept of "constructive possession" in the sense explained by Jones J in Re Guide Dog Owners and Friends Association is apposite in the present context (at [72]):
+        - “In my view, having regard to the scheme and objects of the Act, possession embraces legal or constructive possession: that is a right and power to deal with the document in question. It is not confined to actual or physical possession.”
+      - That question was simply not explored in any real sense by the Tribunal and for that reason alone, in my opinion, the matter must be remitted to the Tribunal (at [73])?
+  - How?
+    - Freedom of Information Act 1982 (Cth)
+      - 15(2) The request must:
+        - (a) be in writing; and
+        - (aa) state that the request is an application for the purposes of this Act; and
+        - (b) provide such information concerning the document as is reasonably necessary to enable a responsible officer of the agency, or the Minister, to identify it; and
+        - (c) give details of how notices under this Act may be sent to the applicant…
+  - Warren v Chief Executive Officer, Services Australia [2024] FCAFC 73
+    - Court:
+      - Federal Court of Australia – Full Court
+    - Parties:
+      - Appellant: Justin Warren
+      - Respondent: Chief Executive Officer, Services Australia
+    - Procedural History:
+      - In January 2017, Mr. Warren made a Freedom of Information (FOI) request regarding the Pay As You Go (PAYG) data matching initiative, later known as Robodebt.
+      - Services Australia denied access under FOI Act exemptions (ss 34 & 37(2)(b)).
+      - The Information Commissioner (2019) set aside the decision for some documents but upheld it for others.
+      - Services Australia appealed to the Administrative Appeals Tribunal (AAT), which found that certain documents were exempt under ss 34(1)(d), 34(3), and 47C of the FOI Act (Services Australia v Warren [2022] AATA 4191).
+      - Mr. Warren appealed to the Federal Court under s 44 of the Administrative Appeals Tribunal Act 1975 (Cth), arguing the AAT erred in its legal interpretation and procedural handling of the case.
+      - The Federal Court allowed the appeal, set aside the AAT’s decision, and remitted the matter for rehearing.
+    - Facts:
+      - Mr. Warren sought 10 documents related to New Policy Proposals (NPPs), draft NPPs, and costings prepared as part of the budgetary process and related to the Robodebt scheme.
+      - Services Australia denied access under the Cabinet exemption (s 34(3) FOI Act), claiming disclosure would reveal Cabinet deliberations or decisions.
+      - During the AAT proceedings, Services Australia changed its legal position multiple times regarding whether NPPs were submitted to Cabinet or merely proposed to be submitted.
+      - Services Australia sought to reopen its case, relying on confidential evidence in a supplementary affidavit from Ms. McGregor, which was not disclosed to Mr. Warren due to confidentiality orders.
+    - Legal Issues:
+      - Procedural Fairness (Ground 1) – Did the AAT err in permitting Services Australia to reopen its case based on confidential evidence, without giving Mr. Warren a fair opportunity to respond?
+      - Reliance on Unchallenged Evidence (Ground 2) – Did the AAT improperly rely on evidence from Scott Britton regarding the purpose of document creation, which Mr. Warren could not properly challenge?
+      - Cabinet Exemption (Ground 3) – Did the AAT misinterpret s 34(3) by concluding that a document containing information similar to a Cabinet document was itself exempt, even if it did not directly reveal Cabinet deliberations?
+      - Official Disclosure Exception (Ground 4) – Did the AAT misinterpret s 34(3) by requiring that the substance of a Cabinet deliberation be disclosed before the exemption no longer applied, instead of requiring only disclosure of the existence of a deliberation?
+      - Public Interest Test (Ground 5) – Did the AAT fail to properly consider the public interest in disclosure, particularly regarding documents 5 and 6, which had already been administratively released?
+    - Decision:
+      - The Federal Court allowed the appeal, set aside the AAT’s decision, and remitted the matter for rehearing.
+      - The AAT denied Mr. Warren procedural fairness by allowing Services Australia to introduce confidential evidence that changed its case without giving Warren fair notice or opportunity to respond.
+      - The AAT failed to evaluate submissions opposing the reopening of the case and did not provide reasons for its decision to do so.
+      - The AAT erred in interpreting s 34(3) by misapplying the Cabinet exemption and narrowing the official disclosure exception beyond its statutory intent.
+    - Ratio Decidendi:
+      - Procedural fairness requires that parties be given a reasonable opportunity to respond to evidence, particularly where a party introduces new confidential evidence that materially alters its case.
+      - A document is only exempt under s 34(3) if it directly reveals a Cabinet deliberation or decision. Mere similarity to a Cabinet document does not satisfy the exemption.
+      - The "official disclosure" exception in s 34(3) applies when the existence of a Cabinet deliberation or decision has been disclosed—full disclosure of the substance is not required.
+      - When assessing public interest, the Tribunal must consider the FOI Act’s transparency objectives and balance confidentiality against the public benefit of disclosure.
+    - Significance:
+      - Clarifies the scope of the Cabinet exemption under the FOI Act, emphasizing a narrow interpretation to avoid excessive government secrecy.
+      - Establishes that procedural fairness is paramount in FOI disputes, particularly when confidential evidence is relied upon.
+      - Reaffirms that the FOI Act’s official disclosure exception does not require full disclosure of Cabinet deliberations, only acknowledgment of their existence.
+      - Strengthens the principles of government transparency and accountability, particularly in high-profile cases related to public policy failures like Robodebt.
+- Refusing access
+  - 
+    - Not captured
+      - Possibilities 
+        - Not a ‘document’
+        - Not a captured agency
+        - Not a captured document for that agency
+        - Not in possession of the agency
+    - Conclusively Exempt
+      - Not required to give access to an ‘exempt document’: s 11A(4) -> 
+        - Means a document captured by Pt IV, Div 2: ss 4 and 31B(a)
+      - Part IV, Division 2
+        - Safety 
+          - 33: National security, defence, international relations
+          - 37: Law enforcement, protection of public safety
+        - High level government activity
+          - 34: Cabinet documents
+          - 45A: Parliamentary Budget Office documents
+          - 47A: Electoral rolls etc
+        - Obligations of confidence and valuable information
+          - 38: Secrecy imposed by another Act
+          - 42: Legal professional privilege
+          - 45: Material obtained in confidence
+          - 46: Contempt of Parliament or court
+          - 47: Trade secrets, commercially valuable information
+        - --- Public interest test does not apply ---
+    - Conditionally exempt
+      - Required to give access to a ‘conditionally exempt’ document unless contrary to public interest: s 11A(5) -> Means a document captured by Pt IV, Div 3: s 4
+      - Part IV, Division 3
+        - Impact on government activity
+          - 47B: Commonwealth-State relations
+          - 47C: deliberative process
+          - 47D: financial or property interests of the Commonwealth
+          - 47E: agency operations
+          - 47H: government research
+          - 47J: the economy
+        - Impact on others
+          - 47F: personal privacy
+          - 47G: business
+        - --- Public interest test does apply —
+      - Public interest test
+        - Section 11B – Factors relevant to determining whether release is contrary to the public interest:
+          - Yes
+            - (3)(a) promote the objects of this Act ... ; -> See s 3!
+            - (b) inform debate on a matter of public importance;
+            - (c) promote effective oversight of public expenditure;
+            - (d) allow a person to access his or her own personal information.
+          - No
+            - (4)(a) access ... could result in embarrassment to the Commonwealth Government, or cause a loss of confidence in the Commonwealth Government;
+            - (b) access to the document could result in any person misinterpreting or misunderstanding the document;
+            - (c) the author of the document was (or is) of high seniority in the agency to which the request for access to the document was made;
+            - (d) access to the document could result in confusion or unnecessary debate
+        - FOI Guidelines
+          - 11B(5) In working out whether access to the document would, on balance, be contrary to the public interest, an agency or Minister must have regard to any guidelines issued by the Information Commissioner for the purposes of this subsection under section 93A.
+          - Part 6
+            - But recall status of Guidelines
+          - Guidelines [6.224]:
+            - Public interest versus individual interest (ie common concern for the public or a substantial section of the public)
+            - In the interest versus of interest
+            - Broad and applied to suit the particular case
+          - Part 6.7
+            - 1 Is the document conditionally exempt?
+            - 2 What is the harm threshold?
+            - 3 Factors in favour of disclosure
+            - 4 Factors against disclosure
+            - 5 Ignore irrelevant factors
+            - 6 Weigh the relevant factors
+        - The present s 11A(5) of the FOI Act expressly adopts a balancing test. But it does not do so on the basis that there is a starting point of “empty scales in equilibrium”. By s 11B(3), certain factors telling in favour of the granting of access are already placed in the scales.
+          - Re Thomas; Secretary, Dept of Defence and (Freedom of Information) [2018] AATA 604 at [74]
+      - How do I interpret / apply the exemptions?
+        - 1 Focus on key words / phrases
+        - 2 Look for defined terms
+        - 3 Review the FOI Guidelines
+        - 4 Search for relevant case law (ie tribunals and courts)
+      - Common terms / phrases in FOI exemptions
+        - Would or could reasonably be expected to
+          - Guidelines [6.13]-[6.16]
+          - “Could” requires less certainty than “would”
+          - “reasonable, as distinct from something that is irrational, absurd or ridiculous”: A-G v Cockcroft (1986) 10 FCR 180, 190
+        - Substantial adverse effect
+          - Guidelines [6.17]-[6.19]
+          - “adverse effect ... sufficiently serious or significant to cause concern to a properly concerned reasonable person”: Re Thies and Department of Aviation [1986] AATA 141 [24].
+        - Prejudice 
+          - Guidelines [6.20]-[6.21]: producing detrimental or worse outcome
+          - Need not rise to the level of substantial adverse effect: Re James and ANU (1984) 6 ALD 687
+    - Partially Exempt
+      - Redacted copies
+        - Section 22 – A redacted version of a document must be provided if:
+          - (1)(a) an agency or Minister decides:
+            - (i) to refuse to give access to an exempt document;
+            - (ii) that to give access to a document would disclose information that would reasonably be regarded as irrelevant to the request for access
+          - (1)(b) it is possible for the agency or Minister to prepare a copy (an edited copy) of the document…
+          - (1)(c) it is reasonably practicable for the agency or Minister to prepare the edited copy, having regard to:
+            - (i) the nature and extent of the modification; and
+            - (ii) the resources available…
+        - 
+    - Practical refusal reason
+      - Voluminous and time consuming requests
+        - s 24(1): The agency can refuse access if there is a “practical refusal reason”
+        - s 24AA: Practical refusal reason exists where:
+          - (1)(a): the work involved in processing the request would ‘substantially and unreasonably divert the resources of the agency from its other operations’
+          - (1)(b): the applicant has not sufficiently identified the document (see criteria in s 24AA and examples in Guidelines)
+        - Section 24(1)(a): The agency must first consult with the applicant
+        - 
+- Demonstration: interpreting an FOI exemption
+  - Exemptions in FOI problem questions
+    - Read the exemption provisions / Guidelines so you can spot relevant ones for your problem
+    - Research your exemptions: this lecture is deliberately high level because the assessment focusses on research and statutory interpretation skills. Use the FOI Guidelines for help, and look at relevant cases on the exemptions you use.
+    - Don’t stop work after identifying one basis for refusal. ie don’t find the single fastest path to “No Access” in the decision tree, consider other possibilities too!
+    - Consider alternative arguments. ie should you still discuss redaction if you’ve argued an exemption does not apply?
+    - IRAC analysis: Don’t just summarise the law and jump to a conclusion. Make sure you pull directly from the facts to show how the law applies to them
+  - Statutory interpretation demo: interpreting and applying an exemption
+    - 1. Identify key terms / phrases
+        - Conditionally exempt: if this exemption applies, we will need to apply the public interest test to determine if it should be released
+      - What is protected? -- “Financial or property interests”
+      - Whose interests? -- Commonwealth or agency
+      - How likely does it need to be? -- “Would have”
+      - How significant does the impact need to be? -- “Substantial adverse effect”
+    - 2. Internal FOI Act references
+      - Defined terms?
+        - Check the dictionary (s 4)
+        - Search across the Act for definition provisions (eg “operational information” is defined in s 8A)
+        - Some terms are defined in other Acts – eg “personal information” is defined in s 4 to adopt its meaning from the Privacy Act 1988 (Cth)
+      - Context?
+        - Follow up cross-references to other provisions (eg s 47H applies to “agencies specified in Schedule 4”)
+        - Consider the structure and context (eg “would have” in s 47D is presumably a higher standard than “would or could be expected” in other exemptions)
+      - Purpose?
+        - Prefer an interpretation that best achieves the legislative
+        - purpose (see objects in s 3): Acts Interpretation Act 1901 (Cth) s 15AA
+    - 3. FOI Guidelines
+      - Financial or property interests
+        -  6.80 The financial or property interests of the Commonwealth or an agency may relate to assets, expenditure or revenue-generating activities. An agency's property interests may be broader than merely buildings and land, and may include intellectual property or the Crown's interest in natural resources."
+      - 6.17 – 6.19: General discussion of the meaning of substantial adverse effect
+      - 6.81 – 6.83: Specific discussion of how it has been applied to s 47D
+    - 4. Case law (tribunals / courts)
+      - Why are cases relevant?
+        - Establish principles that guide interpretation of words and phrases (eg “property” in s 47D is not confined to real property)
+        - Provide facts to use in legal analysis (ie how is your problem question similar to / different from decided cases?)
+      - Finding relevant cases
+        - Lots of examples in the FOI Guidelines
+        - Search on Lexis Advance!
+          - “freedom of information w/s 47D” will find cases on this provision
+          - narrow by search terms as relevant to your problem question (eg “intellectual property”, “trade mark” etc)
+- Process and procedure
+  - Timeframes
+    - 30 DAYS
+      - Day 1:
+        - Request received
+      - Day 14:
+        - Notice of receipt (s 15(5)(a))
+      - Day 30:
+        - Notice of decision (s 15(5)(b))
+        - OR
+        - “Deemed refusal” (s 15AC)
+    - Calculations:
+      - Rules around how dates are calculated (eg deemed delivery days for post, email etc)
+    - Clock paused:
+      - Agency consulting with the applicant about a potential practical refusal reason (s 24AB(8)
+      - Waiting on the applicant to pay a charge
+    - Permitted extensions:
+      - To consult with other parties (s 15(6))
+      - By agreement (s 15AA)
+      - For complex or voluminous requests (ss 15AB)
+      - Additional IC discretion after deemed refusal decision (ss 15AC(5), 51DA(4), 54D(4))
+  - Fees
+    - FOI Act s 29:
+      - Agency can impose charges pursuant to the regulations
+      - Must give notice
+      - Must take into account hardship and whether release is in the public interest
+    - Freedom of Information (Charges) Regulations 2019 (Cth):
+      - cl 6 and Schedule: rates of charges
+      - cl 7(1): No charges for access to personal information
+      - cl 7(2): No charge if agency runs exceeds time limits
+      - cl 11: Charges to be paid before access granted
+  - Review and appeal
+    - Merits review
+      - Internal review
+        - Applicant: can request internal review of an access refusal decision (s 54)
+        - Third parties: affected third party can request internal review of an access grant decision (s 54A)
+        - Time limit: Application must be made within 30 days of the decision (s 54B)
+        - Review time: A new decision-maker must make a ‘fresh decision’ within 30 days (s 54C)
+      - Information Commissioner
+        - What decisions?
+          - original decisions (s 54L) and internal review decisions (ss 54L-54M)
+          - includes deemed refusal decisions (s 15AC)
+        - Procedure: (see s 55)
+          - Direction as to certain procedures to be followed by agencies and ministers in Information Commissioner reviews (July 2024)
+          - Direction as to certain procedures to be followed by applicants in Information Commissioner reviews (July 2024)
+        - Powers: affirm, vary or set aside the decision (s 55K)
+          - (2) For the purposes of implementing a decision on an IC review, the Information Commissioner may perform the functions, and exercise the powers, of the person who made the IC reviewable decision.
+          - (3) A decision of the Information Commissioner on an IC review has the same effect as a decision of the agency or Minister who made the IC reviewable decision.
+      - Administrative Appeals Tribunal
+        - (soon ART)
+          - What decisions? Can review Information Commissioner decisions (s 57A), but not original or internal review decisions
+          - Powers: Can exercise the powers available to the agency or Minister at first instance (s 58)
+            - 58(1) Subject to this section, in proceedings under this Part, the Tribunal has power, in addition to any other power, to review any decision that has been made by an agency or Minister in respect of the request and to decide any matter in relation to the request that, under this Act, could have been or could be decided by an agency or Minister, and any decision of the Tribunal under this section has the same effect as a decision of the agency or Minister.
+      - Merits review of FOI decisions
+        - Internal review -> IC review 
+          - AAT review
+    - Legality review	
+      - Judicial review by the courts
+        - Week 5!!
+  - TL;DR — Week 3A
+    - Government information: Different laws work together to govern access to government information, preservation of government information, and protection of personal information (FOI, archives, privacy laws)
+    - Access: the government is required to proactively publish certain information, and release other information on request
+    - Right to request access: We have a legally enforceable right to request access to documents held by government
+    - Refusal of access: Agencies can refuse access if: (a) the FOI regime doesn’t apply, (b) conclusively exempt material cannot be redacted, (c) release of conditionally exempt material is contrary to the public interest and cannot be redacted, (d) for other limited “practical” reasons
+    - Interpreting exemptions: carefully review the Act, Guidelines and case law
+    - Merits review options: Internal review (fresh decision by the agency), Information Commissioner review of original decision or internal review decision, AAT review of Information Commissioner decision
+- The legality-merits distinction
+  - The separation of powers
+    - Also: Ombudsmen, commissions of inquiry etc (Week 2) and tribunals (Week 4)
+  - 
+- Distinguishing the merits
+  - The duty and jurisdiction of the court to review administrative action do not go beyond the declaration and enforcing of the law which determines the limits and governs the exercise of the repository’s power. If, in so doing, the court avoids administrative injustice or error, so be it; but the court has no jurisdiction simply to cure administrative injustice or error. The merits of administrative action, to the extent that they can be distinguished from legality, are for the repository of the relevant power and, subject to political control, for the repository alone. 
+    - Attorney-General (NSW) v Quin (1990) 170 CLR 1, 35-36 (Brennan J)
+  - Who can decide?
+    - 
+  - Who can review?
+    - 
+    - “trespass into the forbidden field of review on the merits”
+      - Minister for Immigration & Ethnic Affairs v Guo (1997) 191 CLR 559, 577
+    - “slide into impermissible merit review”
+      - Swift v SAS Trustee Corporation (2010) 6 ASTLR 339, 351
+  - Distinguishing the merits
+    - Merits review
+      - Determines the facts
+      - Applies the law to the facts
+      - Stands in the shoes of the original decision-maker
+      - Typically re-exercises the power and makes the decision afresh
+        - Executive bodies
+    - Judicial review
+      - Determines the legality of the decision:
+        - Law correctly interpreted?
+        - Correct procedures followed?
+        - Appropriate reasoning process adopted?
+      - Remedies require original decision-maker to act within power
+        - Courts
+    - Blurred boundaries?
+      - merits review bodies still interpret / apply the law
+      - difficulty of separating questions of fact and law
+      - some grounds of judicial review allow review of factual findings
+      - States can have dual function tribunals (eg NSW Land and Environment Court)
+  - Example
+    - Fisheries Licencing Act 2018 (Cth)
+      - 12. The Director of Fisheries may cancel a fishing licence if the holder of the licence is not of good character.
+      - 13. If proposing to exercise the power conferred under s 12, the Director of Fisheries must first afford the licence-holder an opportunity to make submissions.
+    - Ken receives a speeding fine after being caught by a speed camera driving at 87km/h in an 80 zone.
+      - Two weeks later, Ken receives a notice from the Director of Fisheries cancelling his fishing licence. The Director indicates the cancellation is based on his lack of good character, as evidenced by his poor driving record
+        - Notice: Decision 
+        - Director of Fisheries: Original Decision-maker
+    - Merits review
+      - Is Ken of good character?
+      - Do I think a person is not of good character based on a speeding fine?
+      - Should I cancel Ken’s fishing licence?
+    - Judicial Review
+      - Has the Director correctly interpreted their powers?
+      - Has the Director followed the right procedures?
+      - Has the Director employed an appropriate reasoning process?
+- ‘Merits’ review
+  - ‘Correct and preferable’ decision
+    - Hearing ‘de novo’
+    - Re-hearing
+      - ‘statutory provisions conferring appellate powers … [including] by way of re-hearing, are to be construed on the basis that ... the power is to be exercised for the correction of error’
+        - Coal and Allied Operations Pty Ltd v Australian Industrial Relations Commission (2000) 203 CLR 194, 203-04
+  - New South Wales Thoroughbred Racing Board v Waterhouse (2003) 56 NSWLR 691
+    - Facts
+      - Robbie Waterhouse gave a friend very inflated odds on a race to help him win enough money to pay off business debts
+      - Original decision-maker gave Waterhouse a 9-month suspension
+      - Waterhouse appealed to the Racing Appeals Tribunal, who increased the penalty to a 9-month disqualification
+      - The matter was ultimately appealed to the NSW Court of Appeal
+    - Issue
+      - Did the Tribunal have the power to consider the matter afresh, or to consider the correctness of the original decision?
+        - Yes
+    - Decision
+      - In this case, I accept that the Tribunal did not approach its task as one where detection of error was required before the decision of the Panel could be interfered with. On the appeal against sentence, the Tribunal took the view that it could substitute its own view without first deciding that there was error. That was in my opinion an error ... (at 718, [106] per Hodgson JA)
+  - ‘Correct and preferable’
+    - 
+  - Core differences in approach
+    - Merits review 
+      - Inquisitorial approach
+      - Informal
+      - Outcome – make a substitute decision
+    - Judicial review
+      - Adversarial approach
+      - Formal
+      - Outcome – invalidate and refer back to original decision-maker 
+  - Rationale for merits review
+    - The basic fault of the entire structure is, however, that review cannot as a general rule ... be obtained "on the merits"—and this is usually what the aggrieved citizen is seeking.
+      - Commonwealth, Commonwealth Administrative Review Committee Report (Parliamentary Paper no. 144 of 1971), [58]
+- Merits review mechanisms
+  - Internal review
+    - Advantages
+      - Quick
+      - Relevant knowledge and expertise
+      - Fosters improved decision-making
+    - Disadvantages
+      - Lacks independence
+      - Perceived ‘rubber stamp’
+      - Risk of appeal fatigue
+      - 
+  - Eternal review
+    - Tribunals 
+      - NOTE: major AAT overhaul underway (see Week 4)
+      - Administrative Appeals Tribunal
+        - major AAT overhaul underway
+        - AAT Act, s 43(1) For the purpose of reviewing a
+        - decision, the Tribunal may exercise all the powers and discretions that are conferred by any relevant enactment on the person who made the decision...
+      - NSW Civil and Administrative Tribunal
+        - NCAT Act, s 63(1) In determining an application for an administrative review under this Act of an administratively reviewable decision, the Tribunal is to decide what the correct and preferable decision is having regard to the material then before it.
+    - Specialised Bodies
+      - Information Commissioner
+        - FOI Act, s 55K(1) After undertaking an IC review, the Information Commissioner must make a decision… (a) affirming ... or (b) varying ... or (c) setting aside the IC reviewable decision and making a decision in substitution for that decision.
+      - Fair Work Commission
+        - WHS Act, s 229(3) The Fair Work Commission may do any of the following in relation to the decision … (a) confirm the decision; (b) vary the decision; (c) set aside the decision and make a decision in substitution for the decision set aside.
+    - Some State courts
+      - NSW Land and Environment Court
+        - LEC Act, s 39(2) In addition to any other functions and discretions that the Court has apart from this subsection, the Court shall, for the purposes of hearing and disposing of an appeal, have all the functions and discretions which the person or body whose decision is the subject of the appeal had in respect of the matter the subject of the appeal.
+  - TL;DR — Week 3B
+    - Separation of powers: Power is distributed to prevent tyranny – each branch should stay in its own lane (separation principle), and should be subject to checks and balances (supervision principle)
+    - The “merits”: The merits of a decision reflects the exercise of decision-making freedom or discretion, eg “I think this is the best way to exercise this power” 
+    - Legality: The executive must stay within legal boundaries on its powers when deciding the merits
+    - Merits review: A merits reviewer revisits the merits of a decision, forming their own view on the correct (ie legal) and preferable (ie most preferred of the legal options) outcome
+    - Who can decide/review the merits? The executive has final say on the merits – courts trespassing into the merits is a potential SOP concern (cf State level)
+    - Who can decide/review legality? The courts have a final say on interpreting the law (ie the legality of a decision) – while merits reviewers do fix legal errors (ie make the “correct” decision), they do not have a final say on the meaning of the law
