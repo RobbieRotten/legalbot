@@ -21,7 +21,7 @@ This template is also an accompanying example to the book [Learning LangChain (O
    - [Running the Backend](#running-the-backend)
    - [Running the Frontend](#running-the-frontend)
 7. [Usage](#usage)
-   - [Uploading/Ingesting PDFs](#uploadingingesting-pdfs)
+   - [Uploading Files and URLs](#uploading-files-and-urls)
    - [Asking Questions](#asking-questions)
    - [Viewing Chat History](#viewing-chat-history)
 8. [Production Build & Deployment](#production-build--deployment)
@@ -38,6 +38,7 @@ This template is also an accompanying example to the book [Learning LangChain (O
 - **Streaming Responses**: Real-time streaming of partial responses from the server to the client UI.
 - **LangGraph Integration**: Built using LangGraph’s state machine approach to orchestrate ingestion and retrieval, visualise your agentic workflow, and debug each step of the graph.  
 - **Next.js Frontend**: Allows file uploads, real-time chat, and easy extension with React components and Tailwind.
+- **Markdown & Web Ingestion**: Import `.md` files or scrape URLs with Firecrawl to index site content.
 
 ---
 
@@ -118,6 +119,8 @@ Create a .env file in frontend:
 
     LANGCHAIN_TRACING_V2=true # Optional: Enable LangSmith tracing
 
+    FIRECRAWL_API_KEY=your-firecrawl-api-key-here # Required for URL ingestion
+
     LANGCHAIN_PROJECT="pdf-chatbot" # Optional: LangSmith project name
 ```
 
@@ -148,6 +151,7 @@ Create a .env file in backend:
 -   `OPENAI_API_KEY`: Your OpenAI API key.
 -   `SUPABASE_URL`: Your Supabase URL.
 -   `SUPABASE_SERVICE_ROLE_KEY`: Your Supabase service role key.
+-   `FIRECRAWL_API_KEY`: API key for scraping URLs with Firecrawl. Required if you want to ingest website content.
 
 
 
@@ -206,13 +210,13 @@ Once both services are running:
 5. The chatbot will trigger the retrieval graph via the `app/api/chat` route to retrieve the most relevant documents from the vector database and use the relevant PDF context (if needed) to answer.
 
 
-### Uploading/Ingesting PDFs
+### Uploading Files and URLs
 
 Click on the paperclip icon in the chat input area.
 
-Select one or more PDF files to upload ensuring a total of max 5, each under 10MB (you can change these threshold values in the `app/api/ingest` route).
+Select up to 5 files (PDF or Markdown) or provide up to 5 URLs. File size must be under 10MB. You can change these limits in `app/api/ingest`.
 
-The backend processes the PDFs, extracts text, and stores embeddings in Supabase (or your chosen vector store).
+The backend parses the files or scrapes the URLs with Firecrawl and stores the resulting documents in Supabase (or your chosen vector store).
 
 ### Asking Questions
 

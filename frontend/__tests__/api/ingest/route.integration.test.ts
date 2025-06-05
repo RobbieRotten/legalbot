@@ -5,6 +5,7 @@ import path from 'path';
 import fetch from 'node-fetch';
 import FormData from 'form-data';
 import { processPDF } from '@/lib/pdf';
+import { processMarkdown } from '@/lib/markdown';
 import { langGraphServerClient } from '@/lib/langgraph-server';
 
 // Mock the processPDF function
@@ -13,6 +14,17 @@ jest.mock('@/lib/pdf', () => ({
     return Promise.resolve([
       {
         pageContent: 'Test content',
+        metadata: { filename: file.name },
+      },
+    ]);
+  }),
+}));
+
+jest.mock('@/lib/markdown', () => ({
+  processMarkdown: jest.fn().mockImplementation((file: File) => {
+    return Promise.resolve([
+      {
+        pageContent: 'Markdown content',
         metadata: { filename: file.name },
       },
     ]);
@@ -129,6 +141,23 @@ startxref
     expect(data.threadId).toMatch(
       /^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i,
     );
+  });
+
+  it('should accept markdown files', async () => {
+    const formData = new FormData();
+    const mdPath = path.join(__dirname, 'test.md');
+    fs.writeFileSync(mdPath, '# Test');
+    formData.append('files', fs.createReadStream(mdPath), 'test.md');
+
+    const response = await fetch(ingestUrl, {
+      method: 'POST',
+      body: formData,
+    });
+
+    expect(response.status).toBe(200);
+    const data = await response.json();
+    expect(data.message).toBe('Documents ingested successfully');
+    fs.unlinkSync(mdPath);
   });
 
   it.skip('should correctly parse PDF files using PDFLoader', async () => {
