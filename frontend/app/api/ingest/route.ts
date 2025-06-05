@@ -2,12 +2,15 @@
 import { indexConfig } from '@/constants/graphConfigs';
 import { langGraphServerClient } from '@/lib/langgraph-server';
 import { processPDF } from '@/lib/pdf';
+import { processMarkdown } from '@/lib/markdown';
+import { processUrl } from '@/lib/web';
 import { Document } from '@langchain/core/documents';
 import { NextRequest, NextResponse } from 'next/server';
 
 // Configuration constants
 const MAX_FILE_SIZE = 10 * 1024 * 1024; // 10MB
-const ALLOWED_FILE_TYPES = ['application/pdf'];
+const ALLOWED_FILE_TYPES = ['application/pdf', 'text/markdown', 'text/plain'];
+const MAX_URLS = 5;
 
 export async function POST(request: NextRequest) {
   try {
@@ -22,22 +25,33 @@ export async function POST(request: NextRequest) {
     }
 
     const formData = await request.formData();
-    const files: File[] = [];
+  const files: File[] = [];
+  const urls: string[] = [];
 
     for (const [key, value] of formData.entries()) {
       if (key === 'files' && value instanceof File) {
         files.push(value);
       }
+      if (key === 'urls' && typeof value === 'string') {
+        urls.push(value);
+      }
     }
 
-    if (!files || files.length === 0) {
-      return NextResponse.json({ error: 'No files provided' }, { status: 400 });
+    if (files.length === 0 && urls.length === 0) {
+      return NextResponse.json({ error: 'No files or URLs provided' }, { status: 400 });
     }
 
     // Validate file count
     if (files.length > 5) {
       return NextResponse.json(
         { error: 'Too many files. Maximum 5 files allowed.' },
+        { status: 400 },
+      );
+    }
+
+    if (urls.length > MAX_URLS) {
+      return NextResponse.json(
+        { error: 'Too many URLs. Maximum 5 URLs allowed.' },
         { status: 400 },
       );
     }
@@ -53,7 +67,7 @@ export async function POST(request: NextRequest) {
       return NextResponse.json(
         {
           error:
-            'Only PDF files are allowed and file size must be less than 10MB',
+            'Invalid file types or file size exceeds limit',
         },
         { status: 400 },
       );
@@ -63,7 +77,12 @@ export async function POST(request: NextRequest) {
     const allDocs: Document[] = [];
     for (const file of files) {
       try {
-        const docs = await processPDF(file);
+        let docs: Document[] = [];
+        if (file.type === 'application/pdf') {
+          docs = await processPDF(file);
+        } else {
+          docs = await processMarkdown(file);
+        }
         allDocs.push(...docs);
       } catch (error: any) {
         console.error(`Error processing file ${file.name}:`, error);
@@ -71,9 +90,18 @@ export async function POST(request: NextRequest) {
       }
     }
 
+    for (const url of urls) {
+      try {
+        const docs = await processUrl(url);
+        allDocs.push(...docs);
+      } catch (error: any) {
+        console.error(`Error processing URL ${url}:`, error);
+      }
+    }
+
     if (!allDocs.length) {
       return NextResponse.json(
-        { error: 'No valid documents extracted from uploaded files' },
+        { error: 'No valid documents extracted from provided data' },
         { status: 500 },
       );
     }
